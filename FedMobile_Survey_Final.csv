@@ -1,0 +1,502 @@
+Sl No.,Name,Gender,Age,Occupation,No of Banking Apps,Logical Layout,App is part of you and who you are,Personal Connection,Problems with App,Usual Problems Faced,Working of App with Slow Internet,Offers by App - Satisfaction,Data Card Recahrge Facility Use,Fund Transfer Use,Use of chat services like Movie ticketing,Mobile transaction Safety,Banking Apps are safer than UPI Apps,Payment notification accuracy,Mobile Banking Fund Transfer per month,Likely Improvement needed in security features,App improvement as a whole,Is tranaction limiting feature helpful,Dealys in OTPs and SMS,Scan and Pay,Ease of transfer of funds into Federal Bank Accounts,Ease of transfer of funds into other Bank Accounts,Biometric Facility Required or Not,Feature that need improvisation,Consolidation of Federal Bank Apps into one,Future use of the App,Future use of FedMobile App over Physical bank Facilities,Recommendation to friends and family,Recommendation to others,Most Innovative and user-friendly product of Federal Bank
+1,Daniel Kurian,Male,39,Professional,4,2,2,2,5,Nil,1,1,2,1,2,2,4,5,"Rs 1000-10,000",4,1,4,1,3,5,5,No,Loans and Investments,Yes,3,5,4,3,Selfie
+2,Radhakrishnan P,Male,45,Private Co.,1,1,5,2,4,Crashing of the App,4,5,3,3,2,1,4,5,Rs 0-100,2,3,2,2,2,5,2,No,Deposits,No,3,2,1,4,Selfie
+3,Mary Mathew,Female,43,Government Servant,1,1,3,5,3,Other mobile apps are so easy,1,4,3,5,4,1,3,1,"Rs 1,00,000-10,00,000",5,5,1,1,5,4,3,No,Recharge and Pay Bills,Yes,2,1,2,1,FedNet
+4,Nisha P,Female,26,Other,4,4,4,2,1,Nil,4,4,4,4,5,4,1,5,Rs 0-100,2,2,3,3,5,5,1,No,Loans and Investments,Yes,4,2,5,5,FedNet
+5,Reshma T,Female,22,Student,1,5,5,3,2,Nil,1,2,5,5,1,4,1,5,Rs 100-1000,5,5,5,5,3,1,5,No,Chat Services,Yes,1,2,1,4,FedBook
+6,Parvathy K,Female,33,Self Employed,4,2,4,3,2,Difficulty in Opening the App,3,1,5,1,2,1,2,2,Rs 100-1000,3,2,4,3,5,2,3,Yes,Transfer Funds,No,4,3,1,4,FedMobile App
+7,Pradeep Menon,Male,47,Other,3,1,1,1,1,Other mobile apps are so easy,2,2,5,4,5,2,1,1,Rs 0-100,4,2,4,5,2,1,3,Yes,Deposits,Yes,4,3,2,4,FedNet
+8,Basha P,Male,25,Self Employed,2,3,1,3,1,Other mobile apps are so easy,5,1,1,4,2,4,1,5,Rs 0-100,5,5,5,2,5,1,1,No,Deposits,No,3,1,4,5,Selfie
+9,Rahman P,Male,40,Professional,1,1,3,4,5,Difficulty in Linking to the Bank Account,1,5,4,3,3,2,5,5,Rs 100-1000,4,1,2,1,5,1,5,No,Pay Bills,No,5,3,4,1,Selfie
+10,Sunanda P,Female,45,Government Servant,3,5,1,5,5,Nil,4,3,2,3,4,1,4,3,"Rs 10,000-1,00,000",5,5,3,4,4,4,2,No,Chat Services,No,3,5,5,1,FedMobile App
+11,Rabiya P,Female,47,Private Co.,2,1,2,2,4,Other mobile apps are so easy,2,5,1,1,2,5,2,5,Rs 100-1000,5,5,5,1,1,3,1,Yes,Transfer Funds,Yes,3,2,5,3,FedMobile App
+12,Sneha R,Female,27,Private Co.,4,3,3,4,1,Difficulty in Linking to the Bank Account,2,3,1,1,4,1,5,5,"Rs 10,000-1,00,000",1,5,2,5,4,3,4,Yes,Recharge and Pay Bills,Yes,3,5,3,3,FedMobile App
+13,Pradeep Menon K,Male,50,Self Employed,1,4,3,3,3,Crashing of the App,5,3,2,1,1,3,1,2,"Rs 1000-10,000",1,1,3,1,5,5,1,No,Pay Bills,No,3,5,4,3,Selfie
+14,Malavika Kurian,Female,29,Self Employed,4,2,4,1,1,Difficulty in Linking to the Bank Account,2,3,4,3,5,1,1,5,"Rs 1,00,000-10,00,000",4,2,2,1,1,5,4,No,Loans and Investments,No,5,4,3,4,FedMobile App
+15,Elizabeth Joseph,Female,49,Professional,1,4,4,1,2,Other mobile apps are so easy,3,3,2,5,4,5,5,3,Rs 0-100,4,2,3,5,5,1,2,No,Transfer Funds,No,2,2,2,1,FedMobile App
+16,Aishwarya Rajan,Female,41,Self Employed,3,1,1,4,3,Crashing of the App,1,5,5,1,2,4,5,5,"Rs 10,000-1,00,000",3,2,1,5,2,3,3,No,Loans and Investments,No,3,1,3,1,FedBook
+17,Meera Thomas,Female,29,Other,4,1,2,2,3,Difficulty in Opening the App,5,1,3,3,5,4,4,3,Rs 100-1000,4,3,1,5,2,2,3,No,Transfer Funds,No,2,1,5,5,FedMobile App
+18,Sophia Varghese,Female,27,Professional,1,1,5,2,5,Crashing of the App,5,3,5,4,4,2,4,3,"Rs 1000-10,000",1,2,4,4,3,5,2,No,Deposits,Yes,3,5,5,1,Selfie
+19,Sunny Thomas,Male,46,Professional,2,2,5,2,1,Difficulty in Opening the App,1,4,3,1,5,2,1,3,Rs 0-100,3,2,5,1,1,3,5,No,Pay Bills,No,3,3,2,2,FedNet
+20,Daniel Kurian K,Male,22,Student,1,3,5,2,5,Other mobile apps are so easy,3,4,3,1,2,2,5,2,"Rs 1000-10,000",2,3,5,3,5,2,1,No,Deposits,Yes,3,3,5,1,FedMobile App
+21,Rahman P K,Male,42,Self Employed,1,5,1,3,1,Difficulty in Opening the App,3,3,2,1,3,1,2,4,"Rs 1,00,000-10,00,000",2,3,3,4,2,3,5,No,Pay Bills,Yes,4,2,3,4,Selfie
+22,Radhika B,Female,24,Private Co.,1,5,3,2,5,Other mobile apps are so easy,1,4,5,5,1,1,2,4,Rs 0-100,2,4,4,1,1,2,1,Yes,Loan Against Deposit,No,5,1,1,4,FedNet
+23,Roy Joseph,Male,46,Private Co.,4,3,2,1,1,Difficulty in Opening the App,3,2,4,1,5,3,3,2,"Rs 10,000-1,00,000",2,4,3,3,2,5,4,Yes,Deposits,Yes,1,2,3,1,Selfie
+24,Aparna U,Female,26,Private Co.,2,4,1,5,3,Crashing of the App,1,2,4,3,4,2,4,4,"Rs 1,00,000-10,00,000",3,3,2,2,4,2,3,Yes,Chat Services,No,1,4,4,2,FedBook
+25,Sneha R K,Female,38,Private Co.,4,4,5,1,5,Difficulty in Linking to the Bank Account,4,4,1,1,3,1,4,3,"Rs 1000-10,000",2,1,1,4,4,5,5,No,Loans and Investments,No,5,1,1,5,Selfie
+26,Devika Menon,Female,34,Self Employed,2,2,4,3,5,Other mobile apps are so easy,1,1,3,4,2,1,4,4,Rs 0-100,5,3,2,3,4,3,1,No,Transfer Funds,Yes,2,3,2,2,Selfie
+27,Amina B,Female,49,Private Co.,1,2,1,3,4,Difficulty in Opening the App,5,5,3,3,2,5,1,4,"Rs 10,000-1,00,000",2,5,5,3,1,3,5,Yes,Transfer Funds,No,3,1,4,3,Selfie
+28,Ameer K,Male,31,Self Employed,3,5,4,4,2,Nil,3,4,2,4,5,5,3,4,"Rs 1000-10,000",3,3,5,3,4,5,1,No,Deposits,No,1,3,5,1,FedBook
+29,Jacob Thomas,Male,48,Professional,3,4,4,2,1,Other mobile apps are so easy,4,2,3,3,2,4,4,3,"Rs 1,00,000-10,00,000",5,2,1,2,3,2,5,Yes,Deposits,No,1,5,5,2,FedBook
+30,Parvathy K K,Female,22,Self Employed,4,1,3,4,1,Other mobile apps are so easy,4,4,1,4,2,1,2,5,"Rs 1,00,000-10,00,000",4,5,3,4,1,4,1,No,Loan Against Deposit,Yes,1,5,5,3,FedBook
+31,Mary Mathew K,Female,30,Government Servant,3,3,4,1,2,Difficulty in Linking to the Bank Account,1,4,2,3,4,5,5,2,"Rs 1000-10,000",1,2,5,3,3,1,5,Yes,Loans and Investments,Yes,1,5,2,5,FedBook
+32,Aishwarya Rajan K,Female,43,Professional,4,2,1,1,3,Difficulty in Linking to the Bank Account,2,5,3,2,5,2,2,4,"Rs 1,00,000-10,00,000",5,5,4,3,5,4,2,No,Chat Services,Yes,1,2,2,2,FedMobile App
+33,Malavika Kurian K,Female,40,Government Servant,2,2,3,5,2,Crashing of the App,5,4,2,5,2,4,1,4,Rs 0-100,4,2,1,4,1,3,1,No,Deposits,Yes,2,5,2,2,Selfie
+34,Elsamma Varghese,Female,45,Government Servant,3,1,1,3,5,Nil,1,5,4,4,2,5,5,4,Rs 100-1000,1,1,1,4,5,1,2,No,Recharge and Pay Bills,Yes,3,4,5,5,Selfie
+35,Sneha R P,Female,40,Government Servant,1,2,5,2,5,Nil,3,2,1,3,5,3,5,2,"Rs 1,00,000-10,00,000",2,5,3,4,3,4,4,Yes,Pay Bills,No,4,4,2,5,FedNet
+36,Joel M,Male,38,Professional,1,1,1,5,2,Crashing of the App,5,2,5,5,4,1,2,5,"Rs 1000-10,000",5,5,1,5,2,5,1,Yes,Pay Bills,No,4,3,5,5,FedBook
+37,Radhamani K,Female,46,Government Servant,4,5,1,4,1,Nil,3,3,1,2,5,5,1,5,"Rs 10,000-1,00,000",3,3,2,3,5,3,3,No,Recharge and Pay Bills,No,2,1,4,5,FedMobile App
+38,Nisha P K,Female,41,Private Co.,3,2,2,1,1,Other mobile apps are so easy,2,2,4,3,3,2,4,3,Rs 0-100,4,2,2,3,4,5,2,No,Loans and Investments,Yes,1,3,1,1,Selfie
+39,Sandeep M,Male,37,Government Servant,1,5,4,3,4,Difficulty in Linking to the Bank Account,2,2,4,4,1,3,3,3,Rs 0-100,3,3,1,3,5,5,4,Yes,Deposits,No,3,5,5,2,FedNet
+40,Aparna U K,Female,33,Other,4,3,4,3,3,Difficulty in Opening the App,1,4,5,1,3,3,4,2,"Rs 1000-10,000",1,1,1,2,5,4,4,Yes,Loan Against Deposit,No,1,5,3,3,FedBook
+41,Gayathri Joseph,Female,44,Other,4,3,3,1,3,Difficulty in Linking to the Bank Account,4,3,1,2,3,2,2,3,Rs 0-100,3,4,2,2,2,4,1,No,Recharge and Pay Bills,No,3,4,4,5,FedNet
+42,Manu Kumar,Male,26,Professional,1,2,1,4,3,Difficulty in Linking to the Bank Account,3,1,1,2,1,2,3,3,"Rs 1000-10,000",2,5,2,3,2,4,3,Yes,Recharge and Pay Bills,Yes,1,2,4,4,FedBook
+43,Parvathy K P,Female,38,Private Co.,2,5,2,3,1,Other mobile apps are so easy,1,4,4,3,4,3,5,4,Rs 0-100,4,3,3,1,4,5,4,No,Transfer Funds,No,5,5,1,5,Selfie
+44,Gayathri Joseph K,Female,42,Professional,3,1,5,4,2,Other mobile apps are so easy,3,1,1,5,1,4,5,4,"Rs 10,000-1,00,000",2,5,5,2,1,2,3,No,Chat Services,No,5,5,4,3,Selfie
+45,Alice Mathew,Female,49,Other,1,1,5,1,2,Difficulty in Linking to the Bank Account,4,2,1,5,4,4,3,2,Rs 0-100,1,2,3,3,4,3,1,Yes,Loan Against Deposit,No,5,1,4,1,Selfie
+46,Sneha R M,Female,41,Government Servant,4,4,5,4,4,Other mobile apps are so easy,1,1,4,5,4,4,4,3,"Rs 1000-10,000",3,3,4,1,5,1,5,Yes,Pay Bills,Yes,4,4,3,4,FedMobile App
+47,Sneha R S,Female,37,Self Employed,3,5,2,3,5,Difficulty in Linking to the Bank Account,3,1,2,4,2,3,5,2,"Rs 1,00,000-10,00,000",4,5,2,5,5,3,5,Yes,Recharge and Pay Bills,No,2,2,2,4,FedMobile App
+48,Elizabeth Joseph K,Female,45,Professional,1,1,2,4,1,Nil,3,4,5,3,5,1,4,2,Rs 0-100,3,4,4,3,2,4,5,No,Deposits,No,1,1,4,1,Selfie
+49,Haleema B,Female,46,Other,3,2,3,2,5,Other mobile apps are so easy,5,3,1,3,4,3,5,4,"Rs 1000-10,000",4,1,2,2,3,3,3,No,Recharge and Pay Bills,Yes,3,2,5,3,Selfie
+50,Vivek R,Male,22,Student,1,3,5,5,2,Other mobile apps are so easy,4,2,4,5,5,5,5,2,"Rs 1000-10,000",2,5,4,1,3,5,2,Yes,Loan Against Deposit,Yes,1,4,5,2,Selfie
+51,Mathew Joseph,Male,49,Professional,4,3,4,4,3,Nil,5,2,1,2,3,4,3,4,"Rs 1,00,000-10,00,000",1,1,1,3,2,3,4,Yes,Loans and Investments,No,4,5,1,3,Selfie
+52,Fathima B,Female,25,Private Co.,1,1,3,1,3,Nil,3,3,1,1,4,2,4,5,"Rs 1000-10,000",5,3,4,2,3,1,3,Yes,Loans and Investments,No,4,4,4,5,FedBook
+53,Daniel Kurian P,Male,37,Other,1,1,3,3,4,Difficulty in Linking to the Bank Account,5,1,3,3,5,3,5,4,"Rs 10,000-1,00,000",4,3,5,5,1,3,1,No,Loans and Investments,No,4,2,1,4,Selfie
+54,Radhika B K,Female,34,Private Co.,1,5,3,5,5,Difficulty in Linking to the Bank Account,1,1,3,2,1,1,3,3,"Rs 1,00,000-10,00,000",5,1,5,4,3,4,5,Yes,Loans and Investments,Yes,3,5,5,4,FedBook
+55,Mathew Joseph K,Male,46,Private Co.,3,2,1,3,5,Crashing of the App,3,4,1,4,1,1,1,4,"Rs 1,00,000-10,00,000",4,2,2,5,1,4,3,No,Loan Against Deposit,No,4,2,4,3,FedNet
+56,Joel M K,Male,22,Self Employed,4,2,1,4,5,Difficulty in Linking to the Bank Account,5,4,5,1,4,4,1,2,Rs 100-1000,3,5,5,3,5,2,2,Yes,Recharge and Pay Bills,No,2,2,2,1,FedMobile App
+57,Rohit Varghese,Male,42,Government Servant,2,1,1,1,5,Nil,4,5,2,1,2,5,3,2,"Rs 1,00,000-10,00,000",3,4,4,3,3,4,3,Yes,Pay Bills,No,2,3,1,4,FedMobile App
+58,Amritha S,Female,37,Private Co.,2,1,1,1,5,Difficulty in Opening the App,4,5,3,1,4,3,2,4,Rs 100-1000,5,5,5,5,2,5,4,Yes,Recharge and Pay Bills,Yes,5,5,4,3,Selfie
+59,Mathew Joseph P,Male,46,Government Servant,3,2,2,1,2,Nil,1,1,2,1,3,5,3,1,Rs 100-1000,4,4,2,5,1,5,3,No,Chat Services,Yes,4,4,3,4,FedMobile App
+60,Mathew Joseph M,Male,48,Government Servant,4,3,1,5,4,Difficulty in Linking to the Bank Account,2,1,1,4,3,5,3,3,"Rs 1000-10,000",1,3,4,5,5,1,1,No,Loans and Investments,No,3,1,3,2,FedBook
+61,Amritha S K,Female,39,Professional,4,4,3,4,2,Difficulty in Linking to the Bank Account,2,1,2,2,1,3,3,1,"Rs 1,00,000-10,00,000",2,1,2,4,4,5,2,No,Pay Bills,No,2,4,3,2,FedMobile App
+62,Mathew Joseph S,Male,47,Professional,3,4,1,3,5,Nil,4,2,3,1,5,1,4,4,Rs 0-100,1,2,3,1,1,1,3,Yes,Loans and Investments,No,4,3,4,4,FedMobile App
+63,Aparna U P,Female,43,Government Servant,4,3,3,1,2,Crashing of the App,2,3,2,4,5,2,5,2,"Rs 1000-10,000",3,5,4,2,1,5,3,No,Recharge and Pay Bills,No,2,2,4,1,FedNet
+64,Fathima B K,Female,24,Self Employed,2,1,3,2,1,Crashing of the App,3,4,5,5,2,2,3,5,"Rs 1,00,000-10,00,000",2,5,4,3,3,2,3,No,Deposits,No,1,5,4,5,FedBook
+65,Babu Varghese,Male,46,Professional,2,4,4,2,5,Crashing of the App,3,1,5,2,3,1,1,5,Rs 0-100,1,2,1,4,4,5,5,No,Chat Services,No,2,4,4,3,FedNet
+66,Meera Thomas K,Female,35,Government Servant,2,3,3,3,4,Nil,3,1,3,5,4,5,1,4,Rs 0-100,3,3,2,4,1,4,5,No,Transfer Funds,Yes,2,1,1,4,FedBook
+67,Aparna U M,Female,27,Self Employed,1,2,5,3,3,Nil,5,2,3,4,3,4,1,1,Rs 0-100,4,3,3,4,1,2,1,No,Loans and Investments,Yes,2,5,1,3,Selfie
+68,Reshma T K,Female,28,Other,4,2,5,3,5,Difficulty in Linking to the Bank Account,2,5,4,2,1,4,3,4,"Rs 1000-10,000",5,1,4,2,4,4,3,Yes,Loan Against Deposit,Yes,3,5,1,3,Selfie
+69,Joel M P,Male,37,Private Co.,3,3,5,1,5,Difficulty in Opening the App,2,4,2,3,2,4,1,3,"Rs 1,00,000-10,00,000",2,1,2,1,4,5,5,Yes,Recharge and Pay Bills,Yes,5,5,1,4,FedBook
+70,Meera Thomas P,Female,35,Professional,2,1,1,4,4,Difficulty in Linking to the Bank Account,5,5,4,2,4,3,5,5,Rs 100-1000,2,5,1,5,3,5,2,Yes,Transfer Funds,Yes,4,4,1,1,Selfie
+71,Khadeeja T,Female,51,Professional,3,1,4,2,5,Difficulty in Linking to the Bank Account,1,1,2,4,4,1,5,1,"Rs 10,000-1,00,000",5,2,3,5,1,3,3,Yes,Recharge and Pay Bills,Yes,4,4,1,2,FedNet
+72,Nishanth Menon,Male,42,Government Servant,1,3,4,2,3,Other mobile apps are so easy,4,4,2,1,3,2,1,2,Rs 0-100,3,1,4,2,1,1,2,Yes,Chat Services,Yes,2,1,5,1,FedNet
+73,Nisha P P,Female,26,Private Co.,1,5,4,1,1,Difficulty in Opening the App,2,2,3,1,2,2,5,3,Rs 0-100,3,2,4,2,5,2,1,No,Loans and Investments,Yes,4,1,4,5,FedBook
+74,Aparna U S,Female,38,Other,4,2,4,4,4,Nil,2,4,1,4,2,2,5,3,"Rs 10,000-1,00,000",3,3,5,3,5,3,3,No,Deposits,No,1,2,1,2,FedBook
+75,Mary Mathew P,Female,41,Professional,2,5,4,3,2,Difficulty in Opening the App,2,4,4,2,2,1,5,4,"Rs 10,000-1,00,000",1,4,1,4,1,3,4,Yes,Deposits,Yes,1,4,3,4,FedNet
+76,Amina B K,Female,46,Private Co.,2,1,4,1,3,Nil,5,2,5,1,4,1,3,3,Rs 100-1000,2,4,2,3,4,3,4,No,Recharge and Pay Bills,Yes,2,4,1,2,Selfie
+77,Mary Mathew M,Female,38,Professional,1,5,3,4,2,Difficulty in Opening the App,2,4,4,3,2,3,5,4,Rs 100-1000,4,3,3,2,5,5,4,Yes,Loans and Investments,Yes,5,5,2,4,FedBook
+78,Varghese M,Male,46,Government Servant,4,4,1,3,3,Nil,5,1,3,5,1,4,3,5,"Rs 1000-10,000",3,4,3,1,5,2,5,Yes,Deposits,Yes,1,3,2,3,FedMobile App
+79,Rajendran M,Male,48,Private Co.,2,1,2,5,3,Difficulty in Linking to the Bank Account,2,4,5,1,5,4,2,1,"Rs 10,000-1,00,000",5,4,2,4,5,5,4,Yes,Loans and Investments,Yes,1,1,1,2,Selfie
+80,Ayesha Beevi,Female,48,Government Servant,2,5,3,3,4,Crashing of the App,5,4,3,1,1,2,3,2,"Rs 10,000-1,00,000",5,5,1,5,1,2,5,Yes,Loan Against Deposit,No,3,4,2,5,FedNet
+81,Sophia Varghese K,Female,42,Government Servant,2,5,4,1,1,Difficulty in Opening the App,2,5,4,3,2,4,5,3,"Rs 1000-10,000",4,5,1,4,2,3,2,No,Recharge and Pay Bills,No,3,1,3,2,FedBook
+82,Gayathri Joseph P,Female,44,Private Co.,3,2,4,4,4,Difficulty in Opening the App,4,1,1,3,5,2,4,2,"Rs 1,00,000-10,00,000",1,4,5,3,5,5,3,Yes,Recharge and Pay Bills,No,1,3,3,4,FedBook
+83,Meera Thomas M,Female,26,Private Co.,1,2,3,1,2,Difficulty in Opening the App,1,4,5,4,5,2,2,1,"Rs 1,00,000-10,00,000",1,2,5,1,4,1,3,No,Pay Bills,Yes,5,3,5,5,FedBook
+84,Rohit Varghese K,Male,32,Other,1,5,3,1,1,Difficulty in Opening the App,2,1,4,2,1,4,5,1,"Rs 1,00,000-10,00,000",2,5,4,2,3,2,3,Yes,Recharge and Pay Bills,No,5,1,3,5,FedNet
+85,Fathima B P,Female,25,Self Employed,1,5,5,1,2,Difficulty in Opening the App,1,2,5,4,5,2,2,4,"Rs 10,000-1,00,000",2,2,5,4,1,3,2,No,Chat Services,No,3,2,2,1,FedBook
+86,Nishanth Menon K,Male,39,Private Co.,1,2,3,2,5,Difficulty in Linking to the Bank Account,4,5,3,4,3,3,5,4,"Rs 1000-10,000",3,2,5,1,1,5,2,Yes,Recharge and Pay Bills,Yes,5,5,3,1,FedBook
+87,Devika Menon K,Female,40,Self Employed,3,5,5,4,3,Difficulty in Linking to the Bank Account,1,1,2,3,1,5,4,4,Rs 100-1000,4,3,4,5,3,4,4,No,Loan Against Deposit,Yes,2,4,5,2,FedNet
+88,Manu Kumar K,Male,43,Self Employed,4,2,4,2,3,Difficulty in Opening the App,4,1,5,1,5,5,2,2,"Rs 1000-10,000",3,1,1,2,1,3,4,No,Deposits,No,3,3,5,4,FedBook
+89,Mercy Thomas,Female,45,Private Co.,4,3,5,4,3,Other mobile apps are so easy,2,2,3,2,3,5,1,1,"Rs 1000-10,000",4,4,3,5,2,3,1,No,Pay Bills,No,1,3,4,2,FedBook
+90,Rahman P P,Male,24,Professional,2,2,2,1,2,Difficulty in Linking to the Bank Account,2,4,2,5,1,3,4,5,Rs 0-100,1,5,1,3,5,1,3,Yes,Loan Against Deposit,No,4,1,4,3,FedNet
+91,Leelamma Jacob,Female,47,Other,3,4,3,4,2,Other mobile apps are so easy,1,3,3,4,3,2,2,1,Rs 0-100,1,1,2,4,1,1,4,Yes,Transfer Funds,Yes,3,5,1,3,FedNet
+92,Manu Kumar P,Male,23,Student,1,5,2,2,2,Difficulty in Linking to the Bank Account,3,2,1,1,4,2,2,2,"Rs 1000-10,000",1,2,5,1,3,2,1,Yes,Loan Against Deposit,No,1,1,3,5,FedNet
+93,Devika Menon P,Female,21,Student,2,4,2,5,1,Crashing of the App,4,3,1,3,4,1,4,1,"Rs 1,00,000-10,00,000",5,4,3,1,2,2,3,No,Loan Against Deposit,Yes,2,1,4,2,FedNet
+94,Saraswathi Nair,Female,49,Other,2,3,3,1,1,Nil,2,4,3,5,3,1,4,5,"Rs 1000-10,000",4,5,4,2,2,2,3,No,Transfer Funds,Yes,3,5,2,2,Selfie
+95,Anand Rajan,Male,23,Student,2,1,1,4,4,Difficulty in Opening the App,3,3,4,1,4,3,5,2,Rs 0-100,1,2,5,4,3,1,4,Yes,Loan Against Deposit,No,2,3,2,5,Selfie
+96,Reshma T P,Female,27,Professional,2,3,1,1,5,Nil,3,5,3,2,2,1,3,3,Rs 0-100,4,1,4,1,2,1,3,No,Loans and Investments,No,2,2,3,5,FedBook
+97,Arjun Nair,Male,33,Other,4,4,1,1,5,Difficulty in Opening the App,5,1,2,2,3,2,4,5,Rs 100-1000,3,3,2,1,2,1,2,No,Recharge and Pay Bills,Yes,1,3,4,3,FedMobile App
+98,George Varghese,Male,47,Government Servant,4,1,2,4,5,Nil,2,5,5,4,3,3,1,3,"Rs 10,000-1,00,000",4,4,5,2,3,3,2,No,Loan Against Deposit,No,2,3,1,3,FedBook
+99,Ajith Kumar,Male,37,Self Employed,4,3,1,2,2,Difficulty in Opening the App,2,5,5,3,1,5,2,5,"Rs 1,00,000-10,00,000",4,3,5,2,3,3,3,Yes,Transfer Funds,No,2,1,4,1,FedBook
+100,Sophia Varghese P,Female,30,Private Co.,2,1,3,5,4,Difficulty in Opening the App,3,5,3,3,1,4,5,4,Rs 0-100,1,4,2,5,3,1,4,Yes,Pay Bills,No,2,3,5,4,FedMobile App
+101,Sandeep M K,Male,26,Private Co.,1,5,4,2,5,Crashing of the App,1,2,1,5,3,1,4,2,Rs 0-100,2,2,2,1,4,2,5,No,Loans and Investments,No,2,2,3,4,Selfie
+102,Daniel Kurian M,Male,25,Professional,2,3,4,2,1,Other mobile apps are so easy,1,3,2,2,3,1,5,5,Rs 100-1000,5,1,2,2,5,4,3,Yes,Pay Bills,No,1,5,5,3,FedBook
+103,Daniel Kurian S,Male,37,Self Employed,3,3,3,1,1,Other mobile apps are so easy,2,4,3,3,5,5,1,2,Rs 100-1000,3,1,3,1,5,5,4,No,Deposits,Yes,3,5,2,5,Selfie
+104,Radhika B P,Female,40,Self Employed,2,4,1,5,2,Difficulty in Opening the App,5,1,4,2,3,2,2,3,"Rs 1,00,000-10,00,000",2,3,4,1,2,5,3,No,Recharge and Pay Bills,Yes,3,4,1,5,Selfie
+105,Basha P K,Male,44,Other,4,4,2,3,1,Difficulty in Opening the App,3,1,3,1,4,2,3,4,"Rs 1,00,000-10,00,000",3,2,4,4,2,1,4,No,Loan Against Deposit,No,3,5,5,1,FedBook
+106,Gayathri Joseph M,Female,40,Private Co.,4,5,1,2,4,Difficulty in Linking to the Bank Account,4,1,4,2,5,2,1,5,"Rs 1000-10,000",5,1,3,4,4,4,3,No,Transfer Funds,Yes,4,4,1,4,Selfie
+107,Mary Mathew S,Female,33,Self Employed,3,3,5,3,3,Nil,1,1,2,5,2,5,3,5,"Rs 10,000-1,00,000",4,3,5,3,5,1,5,Yes,Loans and Investments,Yes,2,1,5,1,FedBook
+108,Fathima B M,Female,40,Professional,3,5,1,1,4,Difficulty in Linking to the Bank Account,4,5,1,3,3,1,3,3,Rs 0-100,4,1,2,3,4,3,1,Yes,Recharge and Pay Bills,Yes,1,2,1,4,FedMobile App
+109,Anand Rajan K,Male,36,Professional,1,2,1,4,1,Difficulty in Linking to the Bank Account,3,1,3,3,3,4,2,2,"Rs 1000-10,000",1,3,1,4,4,2,3,Yes,Transfer Funds,Yes,1,2,4,5,FedMobile App
+110,Nisha P M,Female,25,Other,2,4,4,5,4,Other mobile apps are so easy,4,5,1,3,3,3,5,5,Rs 100-1000,3,1,5,1,4,3,3,Yes,Recharge and Pay Bills,Yes,2,4,5,3,FedMobile App
+111,Sophia Varghese M,Female,40,Professional,1,2,4,3,2,Difficulty in Opening the App,5,4,3,4,1,3,3,1,Rs 100-1000,1,4,2,2,3,5,2,Yes,Pay Bills,Yes,5,4,4,1,FedBook
+112,Alice Mathew K,Female,47,Self Employed,4,3,2,2,4,Crashing of the App,3,2,2,5,4,1,2,5,Rs 0-100,1,5,2,4,2,5,4,No,Pay Bills,Yes,5,2,1,2,FedMobile App
+113,Fathima B S,Female,22,Student,1,5,2,3,1,Crashing of the App,5,1,3,4,3,1,3,3,"Rs 1000-10,000",2,1,2,4,5,1,2,Yes,Recharge and Pay Bills,No,5,2,4,5,FedMobile App
+114,Mary Mathew T,Female,48,Self Employed,4,1,5,4,4,Difficulty in Opening the App,2,5,3,4,2,3,5,3,Rs 100-1000,5,4,2,5,3,3,5,Yes,Loans and Investments,Yes,5,4,3,5,FedNet
+115,Aishwarya Rajan P,Female,40,Private Co.,3,5,5,2,2,Difficulty in Opening the App,1,5,5,1,3,4,5,2,"Rs 10,000-1,00,000",1,4,4,4,2,3,5,No,Pay Bills,No,5,4,2,1,FedNet
+116,Pradeep Menon P,Male,49,Government Servant,3,3,2,4,1,Nil,3,2,3,4,3,4,5,1,"Rs 1000-10,000",4,4,1,4,4,2,2,Yes,Loan Against Deposit,Yes,3,2,5,1,FedMobile App
+117,Aysha Beevi,Female,47,Self Employed,2,1,5,1,2,Crashing of the App,4,4,1,1,1,1,1,3,"Rs 1,00,000-10,00,000",4,2,3,1,4,5,5,No,Loan Against Deposit,No,5,2,2,2,FedBook
+118,Reshma T M,Female,28,Other,1,5,2,4,4,Difficulty in Linking to the Bank Account,1,5,2,4,3,1,1,2,"Rs 1,00,000-10,00,000",3,2,3,2,3,3,1,Yes,Loan Against Deposit,No,4,2,2,1,FedMobile App
+119,Ameer K K,Male,30,Government Servant,2,2,3,2,3,Crashing of the App,4,5,5,3,4,1,5,1,"Rs 1,00,000-10,00,000",4,3,5,1,5,2,4,No,Deposits,Yes,3,3,3,2,FedBook
+120,Leelamma Jacob K,Female,45,Professional,2,1,1,3,5,Crashing of the App,3,1,5,4,4,4,2,1,"Rs 1,00,000-10,00,000",3,1,1,4,3,5,3,No,Chat Services,No,2,1,2,3,FedBook
+121,Imran B,Male,41,Government Servant,2,2,2,1,4,Nil,2,3,1,1,3,1,3,1,Rs 0-100,5,4,2,5,5,5,3,Yes,Recharge and Pay Bills,Yes,3,5,5,1,FedBook
+122,Daniel Kurian T,Male,38,Professional,1,2,5,4,1,Nil,1,2,2,2,5,1,5,1,Rs 100-1000,2,2,2,3,1,1,1,No,Loans and Investments,Yes,4,3,2,3,FedMobile App
+123,Radhika B M,Female,39,Professional,3,1,5,5,4,Difficulty in Linking to the Bank Account,4,4,4,1,4,4,1,2,"Rs 1000-10,000",3,2,3,5,5,1,1,No,Deposits,No,2,5,5,3,Selfie
+124,Sandeep M P,Male,36,Other,3,3,3,1,4,Nil,2,1,2,1,4,2,3,4,"Rs 1000-10,000",2,4,5,5,5,4,4,Yes,Loans and Investments,Yes,2,4,4,3,FedNet
+125,Manu Kumar M,Male,37,Government Servant,2,5,1,2,2,Crashing of the App,4,2,1,4,5,4,4,5,Rs 0-100,4,1,1,4,5,1,2,Yes,Chat Services,No,4,3,5,3,FedNet
+126,Basha P P,Male,38,Professional,4,2,3,4,5,Nil,2,5,2,1,5,4,1,2,Rs 100-1000,4,4,2,2,1,3,4,Yes,Loan Against Deposit,Yes,3,1,1,1,FedBook
+127,Sandeep M M,Male,42,Self Employed,1,1,1,1,3,Difficulty in Linking to the Bank Account,1,2,1,5,5,3,3,2,"Rs 1,00,000-10,00,000",1,2,3,5,4,1,5,Yes,Pay Bills,Yes,3,3,4,4,FedBook
+128,Thresiamma Varghese,Female,48,Other,1,4,3,2,1,Difficulty in Opening the App,3,5,4,4,2,2,1,5,"Rs 10,000-1,00,000",1,5,3,2,1,1,1,No,Loans and Investments,No,1,5,1,1,FedNet
+129,Nishanth Menon P,Male,33,Government Servant,3,4,1,3,1,Nil,1,1,4,4,1,4,2,4,Rs 0-100,1,2,3,1,3,3,4,Yes,Chat Services,No,1,4,5,4,FedMobile App
+130,Radhika B S,Female,33,Private Co.,4,2,1,2,2,Difficulty in Opening the App,4,2,3,3,4,3,4,4,Rs 100-1000,4,4,4,2,5,2,4,No,Transfer Funds,Yes,2,1,4,1,FedMobile App
+131,Sandeep M S,Male,27,Professional,2,4,1,4,2,Difficulty in Linking to the Bank Account,1,2,5,1,2,2,1,3,Rs 0-100,5,1,2,5,4,4,3,Yes,Pay Bills,Yes,1,1,4,1,Selfie
+132,Aishwarya Rajan M,Female,34,Professional,3,5,3,4,5,Difficulty in Opening the App,1,2,1,2,4,2,2,5,"Rs 1000-10,000",1,3,4,4,3,3,2,No,Transfer Funds,Yes,3,5,5,2,Selfie
+133,Devika Menon M,Female,38,Student,2,1,3,5,4,Crashing of the App,3,4,2,2,5,4,2,3,Rs 100-1000,5,1,1,2,5,2,1,No,Pay Bills,No,2,3,5,4,Selfie
+134,Basha P M,Male,37,Self Employed,4,3,4,1,2,Nil,5,2,4,4,3,2,4,1,Rs 100-1000,4,3,4,1,5,2,2,No,Recharge and Pay Bills,No,3,4,4,5,Selfie
+135,Rohit Varghese P,Male,26,Other,3,5,2,4,2,Nil,5,3,1,5,1,5,1,4,"Rs 10,000-1,00,000",1,2,3,5,2,2,4,No,Loan Against Deposit,Yes,3,1,1,1,Selfie
+136,Imran B K,Male,43,Professional,4,2,5,4,5,Other mobile apps are so easy,5,3,5,2,1,1,1,5,"Rs 1,00,000-10,00,000",3,3,3,5,5,5,4,No,Pay Bills,No,2,3,4,3,FedNet
+137,Meera Thomas S,Female,28,Self Employed,1,2,2,1,3,Nil,3,3,5,3,2,1,1,2,"Rs 1,00,000-10,00,000",2,3,3,4,1,2,5,No,Loan Against Deposit,No,3,2,5,4,FedBook
+138,Pathumma K,Female,46,Other,2,2,2,4,3,Difficulty in Linking to the Bank Account,3,2,4,2,5,4,2,2,Rs 0-100,5,5,4,5,2,5,2,Yes,Deposits,Yes,2,3,2,2,Selfie
+139,Anand Rajan P,Male,24,Private Co.,2,5,4,4,5,Nil,1,4,5,3,4,4,4,4,Rs 0-100,3,5,1,3,3,1,3,Yes,Recharge and Pay Bills,Yes,3,4,3,5,Selfie
+140,Nisha P S,Female,42,Government Servant,2,1,3,5,4,Nil,4,5,5,4,4,1,5,5,"Rs 10,000-1,00,000",5,2,3,3,3,3,1,No,Chat Services,Yes,3,4,3,1,FedMobile App
+141,Imran B P,Male,22,Student,2,1,2,4,3,Other mobile apps are so easy,3,3,3,2,5,3,4,3,Rs 0-100,1,2,4,2,4,4,4,Yes,Pay Bills,No,3,5,3,5,FedNet
+142,Sophia Varghese S,Female,42,Self Employed,1,2,5,1,4,Other mobile apps are so easy,5,2,5,4,2,5,2,5,Rs 100-1000,4,4,1,1,4,2,3,Yes,Loan Against Deposit,No,3,4,3,1,FedMobile App
+143,Raveendran Nair,Male,46,Other,3,4,4,1,2,Crashing of the App,3,3,3,2,5,2,2,5,"Rs 10,000-1,00,000",4,3,5,2,4,2,1,Yes,Loan Against Deposit,Yes,3,5,1,3,FedMobile App
+144,Gayathri Joseph S,Female,41,Government Servant,2,1,3,5,4,Difficulty in Linking to the Bank Account,2,1,2,1,2,2,3,5,Rs 100-1000,1,4,1,4,4,2,3,No,Deposits,Yes,4,5,1,3,Selfie
+145,Reshma T S,Female,31,Private Co.,3,4,1,2,3,Difficulty in Linking to the Bank Account,3,2,5,2,1,5,2,3,Rs 0-100,4,1,5,5,4,2,2,Yes,Chat Services,Yes,5,2,2,5,FedMobile App
+146,Muhammed Ali K,Male,45,Government Servant,1,1,4,1,2,Difficulty in Linking to the Bank Account,5,5,2,4,1,4,3,4,"Rs 10,000-1,00,000",3,1,2,1,4,2,1,Yes,Recharge and Pay Bills,Yes,3,2,5,5,FedMobile App
+147,Rahman P M,Male,24,Professional,2,1,1,3,1,Difficulty in Opening the App,3,5,1,3,5,5,2,5,"Rs 1,00,000-10,00,000",3,3,5,2,4,1,2,Yes,Pay Bills,Yes,5,2,5,3,FedBook
+148,Vivek R K,Male,25,Other,2,2,1,1,1,Difficulty in Opening the App,5,1,3,5,5,1,3,2,"Rs 1,00,000-10,00,000",5,3,4,1,5,4,1,No,Recharge and Pay Bills,No,2,5,5,2,FedMobile App
+149,Arjun Nair K,Male,44,Private Co.,4,4,4,1,2,Difficulty in Linking to the Bank Account,3,3,4,2,2,3,1,5,"Rs 10,000-1,00,000",3,5,4,2,4,4,3,No,Chat Services,Yes,2,2,1,2,FedBook
+150,Meera Thomas T,Female,40,Self Employed,4,4,5,2,4,Difficulty in Opening the App,3,3,3,5,1,2,3,2,Rs 0-100,5,3,2,3,4,5,2,No,Loans and Investments,Yes,5,5,2,3,FedNet
+151,Aparna U T,Female,25,Private Co.,2,4,3,4,4,Difficulty in Linking to the Bank Account,4,1,1,5,5,5,1,2,Rs 100-1000,3,1,3,5,2,2,2,No,Pay Bills,No,5,1,5,5,Selfie
+152,Amritha S P,Female,34,Self Employed,4,5,2,3,2,Crashing of the App,1,1,2,4,2,3,2,2,"Rs 1,00,000-10,00,000",2,2,5,3,4,5,4,No,Transfer Funds,Yes,3,3,1,4,FedNet
+153,Latha Kumari,Female,47,Self Employed,4,2,2,3,1,Nil,4,2,4,1,2,1,3,4,"Rs 10,000-1,00,000",1,3,3,5,1,4,5,Yes,Pay Bills,No,5,1,1,1,FedNet
+154,Gayathri Joseph T,Female,35,Government Servant,3,3,3,5,3,Crashing of the App,4,2,1,4,1,1,4,4,"Rs 1,00,000-10,00,000",3,1,3,3,3,1,1,No,Pay Bills,Yes,4,5,2,2,Selfie
+155,Anand Rajan M,Male,34,Self Employed,3,1,1,3,5,Difficulty in Linking to the Bank Account,4,4,2,5,1,4,3,3,"Rs 10,000-1,00,000",5,3,4,3,4,3,5,Yes,Loans and Investments,Yes,1,3,1,4,FedNet
+156,Meera Thomas R,Female,44,Professional,4,5,5,2,5,Difficulty in Opening the App,4,5,5,5,3,2,1,4,Rs 0-100,4,5,4,4,5,2,3,No,Recharge and Pay Bills,No,1,3,5,4,FedBook
+157,Gopakumar K,Male,47,Other,1,5,2,1,5,Difficulty in Opening the App,1,2,2,4,5,4,4,3,"Rs 1000-10,000",1,2,4,4,4,5,5,No,Chat Services,No,1,2,2,4,FedBook
+158,Sophia Varghese T,Female,35,Self Employed,3,3,2,4,1,Other mobile apps are so easy,3,4,1,4,4,2,4,4,"Rs 10,000-1,00,000",1,5,5,4,4,1,1,Yes,Loans and Investments,Yes,1,3,4,5,FedNet
+159,Radhika B T,Female,36,Private Co.,1,4,3,3,1,Other mobile apps are so easy,2,1,2,2,3,2,1,5,"Rs 10,000-1,00,000",1,3,3,2,1,2,2,Yes,Chat Services,No,1,5,3,2,FedBook
+160,Roy Joseph K,Male,47,Professional,4,2,4,1,5,Difficulty in Linking to the Bank Account,2,5,5,1,3,2,5,2,"Rs 1000-10,000",4,5,1,3,1,2,5,No,Loans and Investments,Yes,1,4,2,3,FedNet
+161,Mathew Joseph T,Male,45,Professional,3,1,4,5,1,Crashing of the App,5,4,1,1,2,2,5,2,Rs 100-1000,1,4,1,4,5,3,2,Yes,Transfer Funds,No,1,2,2,1,Selfie
+162,Arjun Nair P,Male,25,Private Co.,4,4,4,5,5,Nil,3,3,4,1,4,5,4,1,"Rs 10,000-1,00,000",1,4,1,2,2,5,3,No,Recharge and Pay Bills,No,1,4,5,2,Selfie
+163,Fathima B T,Female,40,Government Servant,3,4,5,3,1,Difficulty in Opening the App,3,1,3,5,4,1,5,1,"Rs 10,000-1,00,000",3,5,2,5,2,5,5,Yes,Chat Services,Yes,5,5,1,2,FedNet
+164,Ajith Kumar K,Male,25,Private Co.,2,4,5,3,1,Difficulty in Opening the App,4,4,4,5,4,2,5,4,Rs 0-100,5,1,2,2,4,4,1,No,Deposits,No,2,2,5,3,FedNet
+165,Nishanth Menon M,Male,27,Private Co.,2,4,2,1,5,Difficulty in Linking to the Bank Account,4,4,2,4,1,4,4,2,"Rs 1,00,000-10,00,000",4,3,5,4,5,1,4,Yes,Loan Against Deposit,Yes,3,5,5,1,FedNet
+166,Nisha P T,Female,22,Student,1,3,2,3,2,Nil,5,3,2,1,3,1,3,4,Rs 0-100,4,5,4,1,4,4,2,Yes,Deposits,No,4,1,3,1,FedBook
+167,Rahman P S,Male,23,Student,1,1,2,4,5,Difficulty in Opening the App,4,4,4,5,3,5,2,2,Rs 0-100,3,4,4,5,1,4,5,No,Transfer Funds,Yes,1,5,2,2,Selfie
+168,Shamsudheen T,Male,46,Private Co.,4,1,5,1,4,Nil,1,3,1,1,4,3,5,5,Rs 0-100,4,3,5,3,3,4,2,Yes,Loans and Investments,No,5,2,3,3,FedBook
+169,Pathumma K K,Female,45,Professional,1,4,3,1,5,Difficulty in Opening the App,2,5,5,5,3,3,3,4,"Rs 1,00,000-10,00,000",4,3,2,4,3,3,2,No,Recharge and Pay Bills,Yes,3,1,5,1,FedMobile App
+170,Malavika Kurian P,Female,43,Professional,3,5,2,1,2,Other mobile apps are so easy,5,1,5,5,5,2,2,3,"Rs 10,000-1,00,000",5,2,5,2,5,4,1,Yes,Deposits,Yes,4,1,4,3,Selfie
+171,Radhika B R,Female,44,Private Co.,2,2,1,3,2,Difficulty in Linking to the Bank Account,2,1,4,4,4,3,2,2,Rs 100-1000,3,1,2,4,5,5,1,Yes,Loans and Investments,No,2,2,4,3,FedNet
+172,Khadeeja T K,Female,47,Government Servant,3,3,3,1,3,Crashing of the App,4,5,3,2,3,2,4,3,Rs 0-100,1,5,4,1,5,2,4,Yes,Transfer Funds,Yes,1,2,3,1,FedNet
+173,Nisha P R,Female,21,Student,2,1,5,1,3,Difficulty in Linking to the Bank Account,2,1,1,3,4,2,3,5,"Rs 1000-10,000",4,3,4,4,2,5,4,No,Loans and Investments,Yes,1,4,2,3,FedMobile App
+174,Aishwarya Rajan S,Female,36,Professional,4,1,2,1,5,Difficulty in Linking to the Bank Account,1,1,5,1,4,3,2,4,"Rs 1000-10,000",4,3,3,5,5,4,1,Yes,Chat Services,Yes,5,2,2,4,FedMobile App
+175,Malavika Kurian M,Female,38,Professional,2,4,5,4,5,Other mobile apps are so easy,4,4,5,3,3,4,2,3,"Rs 1000-10,000",4,3,4,2,1,1,2,Yes,Chat Services,Yes,2,5,5,4,FedNet
+176,Nisha P V,Female,40,Self Employed,4,4,5,4,4,Nil,3,4,3,1,1,5,2,1,"Rs 1000-10,000",5,3,2,1,1,2,4,Yes,Deposits,Yes,3,4,5,2,FedBook
+177,Gopakumar K K,Male,45,Government Servant,1,4,1,1,2,Difficulty in Linking to the Bank Account,4,2,3,5,2,5,1,1,"Rs 1,00,000-10,00,000",5,5,4,4,1,5,3,No,Transfer Funds,No,1,3,1,2,Selfie
+178,Pathumma K P,Female,46,Private Co.,4,1,3,2,5,Nil,5,1,2,1,3,1,2,2,"Rs 1,00,000-10,00,000",5,4,1,5,1,3,2,No,Loan Against Deposit,No,3,2,4,2,FedBook
+179,Devika Menon S,Female,21,Student,2,4,1,3,5,Difficulty in Opening the App,3,1,2,1,1,1,1,2,"Rs 1000-10,000",5,1,2,4,5,3,3,Yes,Pay Bills,No,4,1,4,1,FedBook
+180,Devika Menon T,Female,26,Private Co.,2,1,4,5,1,Crashing of the App,4,1,5,5,5,1,4,2,Rs 100-1000,1,5,3,2,3,2,1,Yes,Pay Bills,No,4,3,5,4,FedMobile App
+181,Mary Mathew R,Female,34,Private Co.,3,4,1,4,5,Difficulty in Opening the App,4,4,4,5,3,1,3,2,"Rs 1,00,000-10,00,000",3,5,3,5,3,1,2,Yes,Recharge and Pay Bills,Yes,4,4,4,1,FedMobile App
+182,Anand Rajan S,Male,38,Self Employed,3,3,5,5,3,Difficulty in Opening the App,3,2,2,5,5,2,3,3,"Rs 10,000-1,00,000",4,4,3,2,4,1,1,Yes,Pay Bills,Yes,3,5,1,5,FedBook
+183,Sreedevi Nair,Female,47,Professional,4,3,1,4,3,Crashing of the App,1,5,1,1,1,2,4,5,"Rs 1000-10,000",3,3,3,4,2,3,1,Yes,Pay Bills,No,4,3,3,4,FedMobile App
+184,Sneha R T,Female,35,Professional,2,3,3,3,2,Nil,5,1,5,3,3,3,1,5,Rs 0-100,4,5,2,4,3,2,2,Yes,Recharge and Pay Bills,No,3,5,2,2,Selfie
+185,Nishanth Menon S,Male,25,Self Employed,1,5,1,5,5,Nil,3,3,5,2,3,4,2,5,"Rs 10,000-1,00,000",2,2,2,1,5,3,4,Yes,Loans and Investments,Yes,2,4,4,3,FedMobile App
+186,Zainaba K,Female,46,Professional,3,1,1,2,4,Nil,3,5,3,4,1,4,1,1,Rs 0-100,5,3,4,2,5,1,1,Yes,Recharge and Pay Bills,No,4,3,4,2,FedMobile App
+187,Samuel Mathew,Male,31,Government Servant,1,1,5,5,5,Difficulty in Opening the App,2,4,2,3,4,3,5,4,"Rs 1000-10,000",1,3,3,1,2,5,5,Yes,Chat Services,Yes,5,1,2,4,FedBook
+188,Ameer K P,Male,28,Self Employed,1,2,3,2,1,Difficulty in Opening the App,2,1,5,3,1,1,2,2,"Rs 1000-10,000",4,5,4,4,1,1,3,Yes,Transfer Funds,Yes,4,4,1,2,FedNet
+189,Ajith Kumar P,Male,32,Other,1,1,4,3,5,Nil,1,3,1,2,4,2,3,2,"Rs 10,000-1,00,000",5,1,4,1,4,5,3,Yes,Recharge and Pay Bills,No,3,2,2,4,Selfie
+190,Nishanth Menon T,Male,35,Private Co.,1,4,5,1,5,Crashing of the App,4,2,2,4,1,4,5,3,"Rs 1000-10,000",2,5,3,3,2,1,3,Yes,Chat Services,No,5,2,4,4,FedBook
+191,Raveendran Nair K,Male,47,Professional,1,2,4,1,2,Difficulty in Opening the App,4,3,4,2,5,4,1,2,"Rs 10,000-1,00,000",4,4,3,4,1,2,4,Yes,Loan Against Deposit,Yes,3,2,5,5,FedBook
+192,Basha P S,Male,35,Self Employed,3,1,2,2,3,Nil,3,2,1,1,1,5,2,2,Rs 0-100,3,4,4,4,5,4,3,No,Pay Bills,No,2,3,3,2,FedBook
+193,Malavika Kurian S,Female,28,Private Co.,1,1,5,3,5,Other mobile apps are so easy,1,3,3,1,5,2,1,2,Rs 100-1000,1,2,5,3,4,2,3,Yes,Loans and Investments,No,1,4,5,5,FedMobile App
+194,Rajendran M K,Male,49,Professional,2,2,5,2,4,Difficulty in Opening the App,4,2,3,1,1,4,4,4,Rs 0-100,4,1,4,2,1,3,3,Yes,Deposits,Yes,4,2,3,4,Selfie
+195,Meera Thomas V,Female,41,Self Employed,1,2,3,5,1,Other mobile apps are so easy,1,4,4,3,1,3,3,4,Rs 0-100,1,5,2,5,2,5,5,No,Pay Bills,Yes,2,2,4,3,FedMobile App
+196,Sandeep M T,Male,42,Professional,2,1,4,2,2,Difficulty in Linking to the Bank Account,2,5,1,1,4,3,2,5,"Rs 10,000-1,00,000",5,3,4,3,3,1,2,Yes,Pay Bills,No,5,2,2,1,FedBook
+197,Thomas Mathew,Male,49,Other,2,3,4,5,4,Crashing of the App,4,3,3,1,4,5,2,3,"Rs 1,00,000-10,00,000",1,5,2,2,3,4,4,Yes,Pay Bills,Yes,2,4,4,3,Selfie
+198,Thomas Mathew K,Male,45,Private Co.,2,2,1,1,5,Difficulty in Linking to the Bank Account,2,2,4,4,4,3,4,1,Rs 100-1000,4,4,4,3,4,2,1,Yes,Deposits,No,1,1,5,5,FedBook
+199,Amritha S M,Female,28,Private Co.,2,5,5,3,4,Difficulty in Opening the App,4,3,2,3,2,3,2,3,"Rs 1000-10,000",2,1,1,1,5,5,1,Yes,Chat Services,No,2,4,2,1,FedBook
+200,Parvathy K M,Female,40,Self Employed,1,5,2,5,3,Difficulty in Opening the App,1,4,5,5,4,5,4,4,"Rs 10,000-1,00,000",4,5,3,5,5,1,3,No,Chat Services,Yes,2,4,1,1,FedBook
+201,Joel M M,Male,30,Other,1,2,1,4,5,Crashing of the App,1,3,5,3,3,3,2,2,"Rs 10,000-1,00,000",3,4,5,1,1,5,4,No,Pay Bills,No,5,5,1,2,FedMobile App
+202,Radhakrishnan P K,Male,47,Private Co.,2,5,1,1,5,Difficulty in Opening the App,5,5,2,3,1,2,3,4,"Rs 1000-10,000",3,1,1,1,4,3,3,Yes,Recharge and Pay Bills,No,4,5,4,1,FedNet
+203,Mary Mathew V,Female,40,Professional,3,3,1,5,2,Nil,2,1,3,4,1,3,2,4,Rs 0-100,3,2,5,4,5,2,1,Yes,Transfer Funds,No,2,2,3,3,FedNet
+204,Aparna U R,Female,25,Other,2,5,3,5,2,Difficulty in Linking to the Bank Account,1,4,5,3,3,1,3,4,"Rs 1,00,000-10,00,000",3,3,3,5,2,1,2,No,Transfer Funds,Yes,1,4,1,2,FedBook
+205,Ajith Kumar M,Male,33,Other,2,1,1,1,3,Difficulty in Opening the App,3,1,5,4,1,1,4,5,Rs 0-100,3,1,5,2,2,2,2,No,Transfer Funds,Yes,2,2,5,5,FedBook
+206,Ameer K M,Male,23,Other,4,3,4,2,5,Nil,3,1,4,5,4,4,4,2,"Rs 1000-10,000",5,5,3,1,2,1,1,Yes,Deposits,Yes,4,4,3,3,FedBook
+207,Mary Mathew J,Female,47,Other,1,5,5,4,4,Other mobile apps are so easy,5,2,4,3,2,2,5,2,"Rs 1000-10,000",2,4,3,3,5,1,4,Yes,Recharge and Pay Bills,Yes,4,2,4,3,Selfie
+208,Amritha S S,Female,28,Self Employed,3,5,5,4,3,Difficulty in Linking to the Bank Account,4,5,4,4,5,5,5,3,"Rs 1,00,000-10,00,000",5,4,3,4,1,2,4,Yes,Loans and Investments,Yes,5,3,1,5,FedBook
+209,Fathima B R,Female,38,Professional,4,1,5,5,2,Difficulty in Opening the App,5,1,5,2,3,2,5,1,"Rs 1000-10,000",2,1,2,1,1,1,5,Yes,Chat Services,No,1,4,5,5,FedBook
+210,Mary Mathew D,Female,38,Other,4,3,4,5,2,Difficulty in Linking to the Bank Account,5,4,3,3,2,5,2,2,"Rs 10,000-1,00,000",3,1,5,5,1,4,3,No,Loan Against Deposit,Yes,4,3,4,2,FedMobile App
+211,Rabiya P K,Female,45,Other,1,2,1,2,5,Difficulty in Opening the App,3,5,2,1,3,3,3,5,"Rs 1000-10,000",1,2,2,4,5,3,3,Yes,Pay Bills,No,5,2,1,5,FedBook
+212,Anand Rajan T,Male,22,Student,2,4,2,5,1,Difficulty in Linking to the Bank Account,1,3,5,1,2,3,3,1,Rs 0-100,5,4,2,3,5,1,1,Yes,Pay Bills,No,5,5,1,1,FedNet
+213,Thomas Mathew P,Male,49,Government Servant,3,4,1,3,2,Crashing of the App,1,4,5,3,2,2,5,1,"Rs 10,000-1,00,000",4,2,4,4,5,2,4,No,Transfer Funds,Yes,4,4,3,1,FedNet
+214,Ajith Kumar S,Male,25,Private Co.,1,2,1,5,1,Crashing of the App,3,1,2,1,5,1,5,3,"Rs 1,00,000-10,00,000",4,3,5,5,5,1,4,Yes,Recharge and Pay Bills,No,2,4,3,5,FedBook
+215,Sneha R R,Female,37,Other,2,4,2,1,3,Other mobile apps are so easy,5,1,5,3,5,3,2,5,"Rs 1000-10,000",2,3,1,3,4,5,2,No,Chat Services,No,3,4,2,4,Selfie
+216,Nishanth Menon R,Male,38,Private Co.,3,3,1,3,5,Difficulty in Linking to the Bank Account,3,1,2,3,5,1,3,1,Rs 0-100,4,3,1,1,3,4,1,No,Loan Against Deposit,No,1,3,2,4,FedMobile App
+217,Imran B M,Male,39,Other,2,1,1,3,2,Difficulty in Linking to the Bank Account,4,1,4,3,5,2,2,2,"Rs 10,000-1,00,000",3,2,1,5,3,3,3,Yes,Recharge and Pay Bills,Yes,2,5,5,4,FedBook
+218,Sophia Varghese R,Female,27,Private Co.,1,4,5,2,2,Nil,3,5,3,5,5,4,4,3,Rs 0-100,2,5,2,2,5,4,1,No,Deposits,Yes,1,1,1,2,FedMobile App
+219,Basha P T,Male,26,Other,2,3,4,3,1,Nil,3,4,3,5,3,5,5,1,Rs 0-100,2,5,1,5,5,2,3,Yes,Recharge and Pay Bills,Yes,5,4,5,1,Selfie
+220,Sneha R V,Female,44,Government Servant,2,1,4,5,4,Crashing of the App,5,1,3,1,1,5,3,2,"Rs 10,000-1,00,000",5,3,5,5,3,1,3,No,Transfer Funds,Yes,3,2,3,4,FedBook
+221,Mercy Thomas K,Female,45,Other,1,1,4,5,3,Difficulty in Opening the App,5,2,4,5,4,4,5,3,Rs 100-1000,5,2,2,5,5,1,3,No,Pay Bills,Yes,3,2,1,4,Selfie
+222,Samuel Mathew K,Male,31,Private Co.,2,2,3,3,4,Difficulty in Linking to the Bank Account,3,3,1,5,3,5,4,2,Rs 100-1000,3,2,5,5,1,1,5,No,Transfer Funds,Yes,2,5,1,1,FedMobile App
+223,Malavika Kurian T,Female,29,Professional,4,5,1,1,4,Crashing of the App,3,5,4,5,4,3,5,4,"Rs 1000-10,000",1,1,2,2,3,5,4,No,Pay Bills,No,3,3,4,4,FedNet
+224,Vivek R P,Male,36,Professional,3,2,4,5,1,Other mobile apps are so easy,2,2,4,4,5,2,4,1,"Rs 1000-10,000",4,3,3,2,5,2,4,Yes,Loans and Investments,No,3,2,2,1,FedNet
+225,Ajith Kumar T,Male,39,Other,1,5,2,5,1,Other mobile apps are so easy,1,3,3,1,4,2,4,1,"Rs 10,000-1,00,000",5,1,4,1,4,5,2,No,Loans and Investments,Yes,1,5,2,1,FedNet
+226,Manu Kumar S,Male,34,Self Employed,4,3,5,1,4,Other mobile apps are so easy,4,3,1,3,4,4,5,5,Rs 100-1000,4,4,4,4,1,3,1,Yes,Loans and Investments,No,4,5,4,4,FedBook
+227,Meera Thomas J,Female,40,Government Servant,3,1,1,3,4,Difficulty in Opening the App,2,4,4,2,4,2,2,4,"Rs 1000-10,000",1,4,4,5,2,5,5,Yes,Pay Bills,No,4,2,1,4,Selfie
+228,Malavika Kurian R,Female,40,Other,4,2,1,2,1,Nil,1,4,3,3,2,2,1,2,Rs 0-100,1,5,5,3,4,4,1,No,Loans and Investments,No,1,5,2,2,FedBook
+229,Aishwarya Rajan T,Female,28,Self Employed,4,1,3,2,3,Crashing of the App,4,1,2,1,5,5,2,5,"Rs 10,000-1,00,000",2,5,1,4,1,3,5,No,Loan Against Deposit,No,2,3,5,1,FedBook
+230,Meera Thomas D,Female,40,Self Employed,1,4,5,4,2,Other mobile apps are so easy,2,5,2,1,2,4,4,2,Rs 0-100,5,4,3,5,4,5,3,No,Chat Services,No,4,1,3,1,FedNet
+231,Nishanth Menon V,Male,22,Student,1,1,3,4,3,Other mobile apps are so easy,3,2,3,5,2,3,5,3,"Rs 10,000-1,00,000",1,2,3,2,4,3,5,No,Recharge and Pay Bills,Yes,3,1,3,1,FedMobile App
+232,Basha P R,Male,35,Self Employed,4,1,4,3,5,Difficulty in Linking to the Bank Account,5,1,4,1,2,3,5,2,Rs 0-100,5,3,2,4,3,5,5,No,Deposits,No,1,5,4,1,FedMobile App
+233,Malavika Kurian V,Female,26,Other,4,2,3,4,5,Difficulty in Opening the App,1,2,2,3,4,4,1,1,Rs 100-1000,3,4,4,2,2,5,5,Yes,Pay Bills,Yes,2,3,5,5,FedNet
+234,Sandeep M R,Male,35,Private Co.,1,5,5,2,5,Difficulty in Linking to the Bank Account,5,4,1,3,1,4,5,3,"Rs 1000-10,000",2,4,5,1,1,2,5,No,Recharge and Pay Bills,Yes,2,5,3,4,Selfie
+235,Parvathy K S,Female,27,Professional,1,3,2,4,1,Nil,1,2,4,5,4,4,4,1,Rs 0-100,3,3,1,5,4,5,4,No,Deposits,Yes,4,4,3,1,FedBook
+236,Nisha P J,Female,42,Other,4,3,4,5,1,Crashing of the App,2,5,2,4,2,2,5,5,"Rs 10,000-1,00,000",3,5,3,2,1,4,4,No,Deposits,Yes,3,4,2,1,FedBook
+237,Mary Mathew A,Female,43,Private Co.,1,5,2,2,5,Difficulty in Opening the App,5,1,5,2,4,2,3,4,"Rs 10,000-1,00,000",4,4,2,1,1,3,3,Yes,Loan Against Deposit,Yes,3,3,2,1,Selfie
+238,Parvathy K T,Female,24,Other,1,5,1,1,4,Other mobile apps are so easy,1,3,4,4,3,3,3,5,Rs 100-1000,2,1,2,1,2,4,4,No,Transfer Funds,Yes,3,4,3,5,FedMobile App
+239,Devika Menon R,Female,39,Other,2,4,2,2,4,Nil,3,4,4,5,3,4,5,4,Rs 0-100,4,4,1,4,2,2,3,Yes,Loan Against Deposit,Yes,4,2,3,5,FedBook
+240,Latha Kumari K,Female,45,Private Co.,3,1,3,1,2,Nil,2,1,4,1,5,4,3,5,"Rs 10,000-1,00,000",1,5,1,1,4,4,4,Yes,Recharge and Pay Bills,Yes,1,5,4,1,FedMobile App
+241,Manu Kumar T,Male,29,Professional,2,2,5,3,3,Difficulty in Opening the App,2,5,4,5,1,3,4,2,"Rs 10,000-1,00,000",2,3,1,1,5,2,4,No,Loans and Investments,No,5,2,1,4,Selfie
+242,Saramma Thomas,Female,47,Self Employed,1,3,4,4,3,Crashing of the App,5,5,4,4,4,4,4,5,"Rs 1,00,000-10,00,000",2,2,5,2,4,3,2,No,Pay Bills,No,1,3,5,5,FedBook
+243,Radhika B V,Female,42,Professional,3,3,3,1,4,Crashing of the App,5,5,5,4,3,3,3,2,"Rs 10,000-1,00,000",4,2,4,4,3,4,3,Yes,Loan Against Deposit,No,2,3,5,5,Selfie
+244,Nisha P D,Female,21,Student,1,3,4,4,4,Crashing of the App,1,4,5,1,4,2,3,4,Rs 0-100,3,2,1,2,4,4,1,No,Chat Services,Yes,2,3,1,4,Selfie
+245,Aishwarya Rajan R,Female,35,Private Co.,3,5,5,4,1,Nil,3,5,4,4,2,2,2,4,Rs 100-1000,1,2,3,5,3,1,2,No,Recharge and Pay Bills,Yes,1,4,1,2,Selfie
+246,Radhika B J,Female,28,Self Employed,1,5,1,4,3,Difficulty in Opening the App,4,4,4,1,2,2,5,5,Rs 0-100,4,4,4,1,1,3,5,No,Deposits,No,1,4,2,5,FedMobile App
+247,Gayathri Joseph R,Female,24,Private Co.,2,5,2,2,2,Other mobile apps are so easy,2,5,5,2,4,4,1,1,Rs 0-100,2,5,4,5,3,3,3,No,Loan Against Deposit,No,5,5,2,2,FedNet
+248,Saramma Thomas K,Female,47,Private Co.,1,2,4,5,1,Other mobile apps are so easy,1,5,4,5,1,2,3,1,Rs 100-1000,3,5,5,2,4,2,3,No,Recharge and Pay Bills,No,4,1,4,3,FedNet
+249,Aishwarya Rajan V,Female,28,Other,4,1,3,4,3,Difficulty in Opening the App,5,1,1,3,4,1,3,4,"Rs 1,00,000-10,00,000",1,5,4,3,1,2,2,No,Pay Bills,No,4,3,2,1,FedMobile App
+250,Rohit Varghese M,Male,23,Student,2,4,2,2,4,Difficulty in Linking to the Bank Account,3,3,3,2,2,2,3,2,"Rs 10,000-1,00,000",5,3,4,5,3,5,3,Yes,Loans and Investments,Yes,3,1,5,2,Selfie
+251,Joel M S,Male,27,Other,2,4,5,5,3,Nil,2,1,2,5,2,1,3,2,"Rs 1000-10,000",5,5,2,4,4,5,5,No,Chat Services,No,2,3,3,3,Selfie
+252,Sophia Varghese V,Female,39,Professional,4,3,1,2,3,Nil,1,5,2,2,4,3,1,5,Rs 100-1000,2,5,3,2,4,5,1,Yes,Loan Against Deposit,No,5,5,1,1,FedMobile App
+253,George Varghese K,Male,46,Private Co.,4,1,2,1,2,Crashing of the App,3,3,3,3,4,1,2,4,"Rs 1,00,000-10,00,000",2,1,2,1,1,5,2,Yes,Loan Against Deposit,Yes,5,3,3,5,FedMobile App
+254,Amritha S T,Female,22,Other,4,4,2,4,5,Crashing of the App,3,2,2,2,4,5,4,5,Rs 0-100,2,1,1,4,4,5,3,No,Transfer Funds,No,3,2,3,1,FedNet
+255,Daniel Kurian R,Male,27,Private Co.,2,2,4,2,1,Nil,4,3,1,2,4,5,2,3,"Rs 1000-10,000",1,2,2,2,2,4,5,Yes,Chat Services,No,2,2,1,3,FedNet
+256,Parvathy K R,Female,41,Private Co.,3,1,5,4,5,Nil,1,5,1,1,5,5,1,2,"Rs 1000-10,000",4,2,1,5,1,5,1,Yes,Loans and Investments,Yes,2,4,3,4,FedBook
+257,Samuel Mathew P,Male,42,Other,4,4,1,1,5,Difficulty in Opening the App,2,1,3,3,3,3,4,4,Rs 0-100,1,4,4,2,4,1,3,No,Loans and Investments,Yes,4,5,1,5,FedMobile App
+258,Sandeep M V,Male,44,Self Employed,3,5,5,3,5,Difficulty in Linking to the Bank Account,1,2,1,5,5,1,4,4,Rs 100-1000,3,4,2,4,5,3,4,Yes,Loans and Investments,Yes,2,4,1,2,FedMobile App
+259,Meera Thomas A,Female,21,Student,2,4,3,2,5,Difficulty in Linking to the Bank Account,4,3,2,1,5,3,1,3,"Rs 1,00,000-10,00,000",3,1,1,4,5,5,1,No,Pay Bills,Yes,2,5,3,5,FedNet
+260,Meera Thomas B,Female,33,Professional,1,1,4,4,3,Nil,5,3,3,2,1,5,1,1,"Rs 10,000-1,00,000",5,5,3,3,5,2,4,Yes,Transfer Funds,Yes,5,4,3,3,FedMobile App
+261,Samuel Mathew M,Male,30,Professional,1,4,2,4,3,Other mobile apps are so easy,3,1,5,1,3,1,5,1,Rs 0-100,2,4,2,4,1,5,2,Yes,Chat Services,Yes,2,3,4,4,FedMobile App
+262,Meera Thomas C,Female,27,Private Co.,2,2,4,4,1,Difficulty in Opening the App,1,1,5,2,4,3,5,4,"Rs 1,00,000-10,00,000",5,4,2,3,1,3,5,Yes,Loan Against Deposit,No,3,1,2,1,FedMobile App
+263,Vivek R M,Male,42,Private Co.,2,5,2,4,4,Difficulty in Linking to the Bank Account,5,1,1,5,3,4,1,1,Rs 0-100,2,4,4,4,2,1,4,No,Pay Bills,No,4,5,3,5,FedMobile App
+264,Samuel Mathew S,Male,23,Student,1,3,4,3,2,Crashing of the App,1,5,1,4,5,3,5,3,Rs 100-1000,3,3,2,5,5,1,1,No,Recharge and Pay Bills,Yes,4,5,3,2,Selfie
+265,Ajith Kumar R,Male,35,Other,4,3,4,3,4,Difficulty in Linking to the Bank Account,2,1,2,1,5,4,3,5,"Rs 1,00,000-10,00,000",2,1,5,4,3,3,3,Yes,Pay Bills,No,5,3,4,5,Selfie
+266,Sandeep M J,Male,42,Other,2,2,2,5,1,Nil,5,3,3,4,2,1,2,1,"Rs 10,000-1,00,000",1,2,1,1,5,1,5,No,Pay Bills,Yes,3,4,3,4,FedMobile App
+267,Rahman P T,Male,37,Self Employed,2,2,2,5,5,Crashing of the App,3,1,3,2,2,4,1,3,Rs 100-1000,1,5,5,3,1,4,1,No,Loans and Investments,No,3,1,2,1,Selfie
+268,Reshma T T,Female,42,Other,3,1,2,5,2,Nil,1,3,3,4,2,5,5,4,Rs 100-1000,4,4,4,1,1,5,5,No,Chat Services,No,5,2,1,3,FedNet
+269,Rahman P R,Male,37,Private Co.,4,3,1,5,5,Difficulty in Linking to the Bank Account,3,3,3,2,2,5,4,1,"Rs 1,00,000-10,00,000",5,1,1,2,2,2,5,Yes,Deposits,Yes,1,3,2,1,FedMobile App
+270,Basha P V,Male,25,Self Employed,4,2,4,5,1,Difficulty in Linking to the Bank Account,5,5,2,5,1,1,1,1,"Rs 10,000-1,00,000",5,2,1,5,3,3,5,Yes,Chat Services,Yes,5,5,1,5,FedNet
+271,Arjun Nair M,Male,27,Professional,2,2,1,5,3,Other mobile apps are so easy,4,2,4,4,4,1,2,5,"Rs 1,00,000-10,00,000",3,1,2,3,4,3,2,Yes,Loans and Investments,Yes,5,5,3,2,Selfie
+272,Sandeep M D,Male,26,Self Employed,2,1,5,5,3,Crashing of the App,4,5,4,2,5,1,2,1,"Rs 1,00,000-10,00,000",5,5,4,1,2,2,1,Yes,Pay Bills,Yes,5,3,2,4,FedNet
+273,Imran B S,Male,24,Professional,1,5,1,1,1,Nil,2,5,2,3,4,1,5,4,"Rs 1000-10,000",1,3,2,3,1,2,3,Yes,Chat Services,Yes,5,1,5,2,FedMobile App
+274,Aparna U V,Female,40,Private Co.,3,4,4,4,3,Difficulty in Linking to the Bank Account,3,5,1,3,3,2,5,2,Rs 0-100,2,3,5,2,5,1,3,No,Loan Against Deposit,Yes,5,4,3,3,FedBook
+275,Sneha R J,Female,38,Other,2,3,3,5,5,Difficulty in Opening the App,5,5,5,2,3,5,3,2,"Rs 1,00,000-10,00,000",3,2,2,3,3,4,3,Yes,Transfer Funds,Yes,1,5,1,2,FedNet
+276,Haleema B K,Female,47,Other,1,3,3,1,1,Difficulty in Linking to the Bank Account,2,5,2,1,4,3,3,5,"Rs 1000-10,000",3,1,3,4,5,5,2,No,Deposits,No,3,1,3,3,FedBook
+277,Aparna U J,Female,23,Student,2,2,5,2,2,Other mobile apps are so easy,2,2,4,4,3,3,3,5,Rs 0-100,5,1,3,1,4,5,1,Yes,Loan Against Deposit,Yes,3,4,4,1,FedBook
+278,Basheer P,Male,49,Professional,4,3,4,5,2,Other mobile apps are so easy,5,1,4,5,3,1,4,1,"Rs 1000-10,000",1,5,2,1,4,2,3,No,Pay Bills,No,5,1,1,3,FedNet
+279,Imran B T,Male,25,Self Employed,2,3,2,4,3,Difficulty in Linking to the Bank Account,2,1,2,1,3,2,3,1,Rs 100-1000,3,2,2,3,1,4,1,Yes,Loan Against Deposit,Yes,2,5,3,2,Selfie
+280,Nisha P A,Female,32,Professional,2,2,1,3,2,Difficulty in Linking to the Bank Account,5,4,1,1,4,5,5,3,"Rs 10,000-1,00,000",5,1,2,2,5,2,1,Yes,Loans and Investments,Yes,5,2,4,3,FedMobile App
+281,Mary Mathew B,Female,34,Professional,2,2,1,2,5,Crashing of the App,2,3,1,3,3,3,4,2,"Rs 1,00,000-10,00,000",3,5,5,4,5,1,5,Yes,Pay Bills,No,5,1,1,5,FedNet
+282,Sneha R D,Female,27,Self Employed,1,2,5,2,4,Crashing of the App,4,1,2,3,4,3,5,4,"Rs 10,000-1,00,000",1,2,2,2,1,2,5,No,Chat Services,Yes,2,1,4,2,Selfie
+283,Samuel Mathew T,Male,35,Self Employed,3,2,2,3,2,Other mobile apps are so easy,1,3,1,5,3,4,5,1,Rs 0-100,1,3,1,5,2,5,2,No,Chat Services,No,1,4,4,3,FedBook
+284,Vivek R S,Male,37,Self Employed,2,1,5,5,3,Other mobile apps are so easy,2,5,1,3,1,2,4,1,Rs 100-1000,5,4,2,4,2,1,3,Yes,Loan Against Deposit,No,1,3,1,2,FedMobile App
+285,Aishwarya Rajan J,Female,33,Other,4,1,4,5,5,Difficulty in Opening the App,4,4,3,1,4,2,5,1,"Rs 1000-10,000",5,2,2,4,3,3,1,No,Deposits,No,3,1,5,5,FedMobile App
+286,Gayathri Joseph V,Female,30,Other,1,1,3,4,3,Difficulty in Opening the App,1,2,4,5,2,1,4,2,"Rs 1000-10,000",3,5,3,1,4,1,1,No,Loans and Investments,Yes,2,5,3,3,FedNet
+287,Rohit Varghese S,Male,37,Professional,4,3,4,1,1,Nil,2,5,5,4,5,2,1,1,"Rs 1,00,000-10,00,000",1,5,4,5,4,3,1,Yes,Transfer Funds,No,2,4,2,4,FedNet
+288,Ajith Kumar V,Male,22,Other,1,3,3,1,2,Nil,4,4,4,4,1,4,2,5,"Rs 10,000-1,00,000",4,3,2,2,3,2,3,No,Loan Against Deposit,No,3,1,2,5,FedBook
+289,Alice Mathew P,Female,47,Other,1,3,2,2,1,Difficulty in Opening the App,1,1,1,5,4,2,3,2,"Rs 1,00,000-10,00,000",1,3,2,4,3,4,2,No,Transfer Funds,Yes,3,5,1,2,Selfie
+290,Sandeep M A,Male,38,Professional,4,2,4,5,1,Other mobile apps are so easy,2,4,1,5,1,5,1,4,Rs 0-100,3,5,3,5,2,5,4,No,Loans and Investments,Yes,1,3,2,2,FedMobile App
+291,Vivek R T,Male,33,Self Employed,3,1,2,5,2,Difficulty in Opening the App,1,1,2,3,2,5,1,1,"Rs 1000-10,000",4,5,5,4,3,4,1,No,Pay Bills,Yes,1,2,1,1,FedMobile App
+292,Manu Kumar R,Male,30,Other,3,2,5,2,5,Difficulty in Linking to the Bank Account,1,2,4,2,5,1,1,4,"Rs 10,000-1,00,000",4,3,2,4,4,3,4,No,Transfer Funds,Yes,4,1,5,1,Selfie
+293,Aparna U D,Female,39,Government Servant,3,3,2,3,4,Other mobile apps are so easy,4,2,5,1,4,5,5,3,Rs 100-1000,2,4,5,1,1,2,4,Yes,Chat Services,Yes,2,5,5,3,FedNet
+294,Vivek R R,Male,21,Student,2,2,3,4,3,Other mobile apps are so easy,4,2,3,1,5,2,2,2,Rs 100-1000,5,1,1,1,4,1,3,No,Transfer Funds,Yes,4,2,3,4,FedNet
+295,Devika Menon V,Female,32,Government Servant,1,3,5,5,1,Crashing of the App,1,4,2,4,2,1,3,5,Rs 100-1000,4,4,4,5,2,1,1,No,Recharge and Pay Bills,Yes,5,2,5,1,FedNet
+296,Nishanth Menon J,Male,27,Government Servant,4,1,4,5,5,Difficulty in Opening the App,1,2,3,2,3,2,4,3,"Rs 10,000-1,00,000",2,4,4,4,1,3,4,No,Deposits,No,5,4,3,2,Selfie
+297,Sophia Varghese J,Female,39,Private Co.,2,1,4,2,1,Nil,5,1,1,1,2,2,5,4,"Rs 1,00,000-10,00,000",1,2,2,1,2,5,5,No,Loans and Investments,Yes,3,1,2,3,Selfie
+298,Nisha P B,Female,25,Self Employed,1,3,4,5,4,Other mobile apps are so easy,1,4,4,3,4,4,2,1,Rs 0-100,1,2,4,1,1,2,1,Yes,Pay Bills,No,1,1,2,5,Selfie
+299,Anand Rajan R,Male,43,Self Employed,3,2,3,4,3,Difficulty in Opening the App,5,5,1,1,3,4,2,5,Rs 0-100,1,4,3,4,2,1,4,No,Loan Against Deposit,No,4,5,4,5,FedNet
+300,Amina B P,Female,46,Self Employed,3,4,5,3,5,Crashing of the App,2,3,3,4,2,5,5,3,"Rs 10,000-1,00,000",1,5,1,2,4,5,3,No,Loan Against Deposit,Yes,1,4,1,2,Selfie
+301,Basha P J,Male,36,Government Servant,2,3,2,5,1,Other mobile apps are so easy,2,2,4,3,3,3,3,4,Rs 100-1000,4,3,3,1,2,2,1,No,Deposits,No,5,1,3,4,FedMobile App
+302,Daniel Kurian V,Male,32,Self Employed,4,3,5,2,2,Difficulty in Opening the App,5,2,1,4,2,5,1,4,"Rs 1,00,000-10,00,000",5,1,1,1,2,3,4,No,Recharge and Pay Bills,No,5,1,1,3,FedBook
+303,Khadeeja T P,Female,49,Government Servant,3,2,3,2,2,Crashing of the App,1,3,3,4,5,5,2,1,"Rs 10,000-1,00,000",1,2,3,4,4,4,3,Yes,Recharge and Pay Bills,Yes,2,1,3,1,FedBook
+304,Nisha P C,Female,32,Professional,1,3,4,1,2,Difficulty in Linking to the Bank Account,2,4,4,2,1,1,1,5,"Rs 1000-10,000",5,1,1,4,3,5,4,No,Loans and Investments,No,3,5,4,2,FedMobile App
+305,Parvathy K V,Female,29,Other,2,1,2,2,2,Crashing of the App,1,2,3,2,3,2,3,2,"Rs 1,00,000-10,00,000",1,1,2,1,2,1,4,Yes,Deposits,No,5,5,3,2,FedBook
+306,Ameer K S,Male,41,Professional,4,4,5,1,3,Difficulty in Linking to the Bank Account,1,1,2,5,4,3,5,4,"Rs 1000-10,000",2,5,2,3,1,4,2,No,Loans and Investments,Yes,5,3,2,2,FedBook
+307,Aishwarya Rajan D,Female,44,Professional,2,5,4,3,1,Other mobile apps are so easy,2,4,4,5,4,1,2,1,Rs 100-1000,3,1,3,1,2,2,3,No,Recharge and Pay Bills,Yes,4,3,4,4,FedBook
+308,Pradeep Menon M,Male,49,Private Co.,2,5,5,4,2,Difficulty in Linking to the Bank Account,2,2,4,5,4,1,5,3,"Rs 1,00,000-10,00,000",4,1,3,2,5,3,1,Yes,Chat Services,No,2,4,1,1,FedMobile App
+309,Suresh Nair,Male,49,Government Servant,2,2,4,3,3,Difficulty in Linking to the Bank Account,1,4,4,3,4,2,2,3,"Rs 10,000-1,00,000",2,3,1,1,3,1,3,No,Deposits,Yes,3,4,2,2,FedNet
+310,Sandeep M B,Male,34,Government Servant,3,4,4,2,1,Other mobile apps are so easy,4,2,5,2,3,3,1,1,"Rs 10,000-1,00,000",4,4,5,5,1,1,3,No,Chat Services,No,5,2,2,1,FedNet
+311,Reshma T R,Female,27,Private Co.,2,1,3,3,5,Nil,4,3,1,1,1,2,1,2,"Rs 1,00,000-10,00,000",1,5,1,3,2,3,4,No,Transfer Funds,No,1,4,1,1,FedBook
+312,Hameed K,Male,47,Government Servant,4,1,1,2,5,Crashing of the App,4,5,2,5,3,1,4,2,Rs 0-100,3,2,4,5,5,5,2,Yes,Recharge and Pay Bills,Yes,3,3,2,4,FedNet
+313,Ajith Kumar J,Male,38,Private Co.,1,1,2,3,1,Difficulty in Opening the App,3,1,2,3,3,4,4,2,"Rs 10,000-1,00,000",1,5,5,1,1,2,3,No,Deposits,Yes,4,5,2,5,FedBook
+314,Mary Mathew C,Female,41,Government Servant,3,5,1,3,4,Crashing of the App,3,2,4,5,5,1,2,3,"Rs 10,000-1,00,000",2,5,3,4,4,2,4,Yes,Recharge and Pay Bills,Yes,5,2,3,4,FedMobile App
+315,Reshma T V,Female,30,Self Employed,3,1,1,5,5,Other mobile apps are so easy,2,5,1,2,2,5,5,3,Rs 0-100,2,5,3,4,5,2,3,Yes,Loans and Investments,No,5,2,1,4,FedNet
+316,Rohit Varghese T,Male,37,Private Co.,4,2,1,4,3,Difficulty in Linking to the Bank Account,5,1,1,5,3,5,4,1,"Rs 10,000-1,00,000",5,2,2,2,1,5,3,Yes,Deposits,No,5,4,4,1,Selfie
+317,Arjun Nair S,Male,26,Self Employed,2,2,5,2,4,Difficulty in Linking to the Bank Account,1,4,5,1,2,1,4,3,Rs 0-100,5,2,3,2,3,2,1,Yes,Loan Against Deposit,Yes,2,3,3,3,FedBook
+318,Anand Rajan V,Male,44,Government Servant,3,1,4,4,2,Difficulty in Opening the App,1,2,1,2,1,4,4,4,Rs 0-100,1,3,1,1,4,2,4,No,Transfer Funds,No,3,4,2,2,FedBook
+319,Mary Mathew E,Female,25,Professional,1,2,4,2,4,Difficulty in Opening the App,2,1,1,2,1,3,5,1,"Rs 10,000-1,00,000",2,3,3,1,1,2,1,No,Chat Services,Yes,1,2,4,3,FedBook
+320,Ameer K T,Male,27,Professional,1,4,5,5,2,Difficulty in Linking to the Bank Account,4,5,3,2,1,3,5,3,Rs 0-100,2,2,2,4,4,3,5,Yes,Chat Services,No,4,4,5,5,FedBook
+321,Rohit Varghese R,Male,39,Self Employed,1,2,1,5,1,Nil,5,5,1,4,5,3,4,3,"Rs 1000-10,000",5,2,3,5,1,5,4,No,Loans and Investments,No,5,2,1,1,FedNet
+322,Meera Thomas E,Female,36,Other,3,3,3,5,5,Difficulty in Linking to the Bank Account,3,3,2,3,3,1,1,5,Rs 100-1000,3,3,3,4,2,1,4,No,Loans and Investments,Yes,2,1,3,1,FedNet
+323,Amritha S R,Female,33,Self Employed,4,5,2,3,2,Difficulty in Linking to the Bank Account,4,1,4,1,1,2,4,4,"Rs 1000-10,000",3,4,2,2,2,1,4,Yes,Recharge and Pay Bills,No,1,3,1,5,Selfie
+324,Fathima B V,Female,42,Other,4,2,1,3,2,Other mobile apps are so easy,1,5,1,1,1,4,4,1,Rs 100-1000,1,3,1,1,2,3,1,Yes,Loan Against Deposit,No,4,2,1,1,FedNet
+325,Mercy Thomas P,Female,49,Private Co.,1,5,5,3,4,Difficulty in Linking to the Bank Account,3,5,2,5,3,3,5,2,Rs 0-100,4,1,5,5,4,3,4,Yes,Loans and Investments,Yes,2,2,5,3,FedMobile App
+326,Gayathri Joseph J,Female,26,Private Co.,1,4,4,1,1,Crashing of the App,2,1,3,5,1,2,3,4,"Rs 1000-10,000",4,2,4,4,1,4,3,No,Recharge and Pay Bills,No,1,4,1,2,FedMobile App
+327,Parvathy K J,Female,40,Private Co.,2,3,2,3,2,Difficulty in Linking to the Bank Account,1,3,1,2,4,4,2,1,Rs 100-1000,3,4,4,2,4,4,2,Yes,Chat Services,Yes,4,2,1,5,Selfie
+328,Sneha R A,Female,40,Self Employed,1,1,2,3,3,Crashing of the App,1,2,5,2,4,1,2,4,"Rs 1000-10,000",3,2,2,3,2,4,3,Yes,Loan Against Deposit,Yes,2,1,4,4,FedBook
+329,Gayathri Joseph D,Female,43,Private Co.,4,3,5,2,1,Difficulty in Opening the App,1,2,5,1,1,2,5,4,Rs 100-1000,1,3,5,5,2,1,5,No,Transfer Funds,No,2,3,4,3,FedNet
+330,Mary Mathew F,Female,24,Professional,1,5,1,1,2,Difficulty in Opening the App,5,4,1,1,5,2,4,1,"Rs 10,000-1,00,000",2,4,3,1,5,1,5,No,Loan Against Deposit,No,5,3,3,4,Selfie
+331,Thresiamma Varghese K,Female,49,Self Employed,1,4,3,1,1,Crashing of the App,1,2,4,4,2,3,1,1,Rs 0-100,2,3,1,1,5,5,2,Yes,Recharge and Pay Bills,Yes,3,1,5,2,FedBook
+332,Anand Rajan J,Male,26,Private Co.,3,5,2,3,5,Difficulty in Linking to the Bank Account,2,5,5,4,4,3,2,3,"Rs 1000-10,000",5,2,1,3,2,3,2,No,Loan Against Deposit,Yes,1,2,1,3,FedMobile App
+333,Mary Mathew G,Female,27,Private Co.,1,2,3,4,2,Other mobile apps are so easy,2,4,1,2,2,5,4,3,Rs 0-100,1,3,1,5,3,1,1,Yes,Deposits,No,2,5,3,4,Selfie
+334,Basha P D,Male,41,Private Co.,4,2,5,2,2,Other mobile apps are so easy,2,5,2,4,5,2,4,4,"Rs 1,00,000-10,00,000",2,5,1,1,1,2,5,Yes,Pay Bills,Yes,3,1,1,4,FedBook
+335,Aparna U A,Female,37,Government Servant,2,5,4,1,2,Difficulty in Linking to the Bank Account,2,4,3,5,2,3,5,5,"Rs 1000-10,000",2,1,4,4,2,1,3,No,Transfer Funds,Yes,2,5,5,4,FedMobile App
+336,Ameer K R,Male,25,Self Employed,1,2,1,2,3,Nil,4,1,2,5,5,3,2,3,"Rs 10,000-1,00,000",4,3,1,5,2,1,4,No,Transfer Funds,Yes,5,2,4,2,FedBook
+337,Aishwarya Rajan A,Female,39,Professional,1,2,3,3,1,Nil,5,3,1,5,4,2,2,3,Rs 0-100,1,3,5,2,1,4,5,Yes,Loan Against Deposit,No,4,2,5,1,FedNet
+338,Sandeep M C,Male,40,Government Servant,4,1,1,3,3,Other mobile apps are so easy,3,3,1,2,3,5,2,2,Rs 0-100,5,3,5,3,1,2,4,No,Pay Bills,Yes,4,3,2,2,Selfie
+339,Meera Thomas F,Female,42,Other,4,5,5,3,2,Crashing of the App,1,2,5,5,4,5,4,5,"Rs 1,00,000-10,00,000",2,5,2,1,1,4,2,No,Deposits,Yes,5,1,1,3,FedNet
+340,Reshma T J,Female,23,Self Employed,2,4,2,5,4,Other mobile apps are so easy,3,4,2,4,3,1,3,5,Rs 0-100,2,2,3,1,4,1,3,No,Transfer Funds,No,2,2,4,2,FedBook
+341,Aparna U B,Female,27,Private Co.,1,5,1,2,3,Nil,1,1,2,4,2,4,3,3,"Rs 1,00,000-10,00,000",2,1,4,2,4,3,1,Yes,Loan Against Deposit,No,1,2,3,1,Selfie
+342,Meera Thomas G,Female,36,Professional,3,2,1,3,5,Difficulty in Linking to the Bank Account,4,3,5,1,2,3,5,5,Rs 100-1000,3,5,2,2,2,2,5,Yes,Chat Services,No,5,4,3,3,FedNet
+343,Parvathy K D,Female,44,Private Co.,3,4,4,4,4,Nil,3,2,2,1,5,3,5,2,Rs 0-100,4,4,3,4,1,1,2,Yes,Pay Bills,No,3,2,3,5,Selfie
+344,Nisha P E,Female,27,Professional,1,1,4,1,1,Difficulty in Linking to the Bank Account,5,2,2,1,5,2,4,2,Rs 0-100,5,1,3,5,3,1,5,Yes,Chat Services,No,5,1,5,2,FedBook
+345,Reshma T D,Female,42,Professional,2,2,5,2,3,Nil,1,3,1,3,1,3,2,3,Rs 100-1000,5,5,4,1,5,1,5,No,Loan Against Deposit,Yes,5,5,2,1,FedBook
+346,Rahman P V,Male,32,Private Co.,2,2,2,3,3,Nil,2,4,3,1,1,3,2,1,Rs 0-100,4,5,2,1,4,5,4,No,Pay Bills,Yes,2,3,5,5,FedBook
+347,Imran B R,Male,42,Government Servant,2,4,5,2,4,Nil,1,2,5,2,5,4,2,5,"Rs 10,000-1,00,000",4,1,1,4,3,4,4,Yes,Loans and Investments,Yes,2,2,1,3,Selfie
+348,Gayathri Joseph A,Female,38,Self Employed,1,5,1,2,5,Difficulty in Linking to the Bank Account,4,4,1,1,4,1,1,5,Rs 100-1000,2,5,5,5,2,5,1,Yes,Chat Services,Yes,1,4,2,3,Selfie
+349,Raveendran Nair P,Male,45,Private Co.,3,3,1,3,2,Nil,5,3,2,3,1,1,4,4,Rs 100-1000,4,3,4,5,4,2,2,No,Recharge and Pay Bills,Yes,2,4,3,4,FedMobile App
+350,Raveendran Nair M,Male,47,Professional,2,3,4,5,4,Other mobile apps are so easy,5,5,4,2,3,3,1,5,"Rs 1,00,000-10,00,000",1,2,2,5,4,1,4,Yes,Chat Services,Yes,4,2,1,2,FedMobile App
+351,Sneha R B,Female,35,Self Employed,4,4,4,1,5,Nil,5,2,4,3,3,1,1,3,Rs 0-100,4,3,1,4,1,4,3,Yes,Recharge and Pay Bills,No,3,2,5,2,FedMobile App
+352,Ajith Kumar D,Male,40,Government Servant,1,3,3,4,4,Nil,5,5,4,4,2,2,2,2,Rs 100-1000,4,1,5,4,5,4,5,No,Loans and Investments,No,5,4,3,1,Selfie
+353,Mary Mathew H,Female,34,Professional,3,3,3,3,1,Difficulty in Opening the App,1,4,2,2,4,3,3,5,Rs 100-1000,4,2,1,5,3,2,1,No,Transfer Funds,No,2,2,5,3,FedMobile App
+354,Sneha R C,Female,35,Self Employed,2,4,5,5,3,Nil,3,3,3,3,5,2,2,5,"Rs 10,000-1,00,000",4,5,4,1,3,5,5,No,Loan Against Deposit,Yes,3,1,4,2,FedNet
+355,Rosamma Kurian,Female,49,Government Servant,1,2,1,1,1,Difficulty in Opening the App,2,1,1,4,5,2,5,5,"Rs 1,00,000-10,00,000",5,5,2,1,2,5,2,Yes,Recharge and Pay Bills,Yes,5,2,4,2,FedMobile App
+356,Daniel Kurian J,Male,30,Private Co.,3,4,5,4,2,Other mobile apps are so easy,5,5,4,4,5,5,1,3,Rs 100-1000,4,1,5,1,2,5,3,Yes,Loans and Investments,No,2,2,5,1,FedMobile App
+357,Meera Thomas H,Female,41,Professional,2,4,3,4,5,Other mobile apps are so easy,3,5,3,4,3,3,4,3,Rs 0-100,4,5,4,2,4,5,2,Yes,Pay Bills,No,2,1,4,3,FedBook
+358,Basha P A,Male,31,Self Employed,1,3,3,5,3,Crashing of the App,1,4,5,1,2,1,5,3,"Rs 10,000-1,00,000",5,5,5,4,3,4,5,No,Loan Against Deposit,Yes,2,4,1,5,FedBook
+359,Thresiamma Varghese P,Female,48,Private Co.,2,5,2,2,5,Difficulty in Linking to the Bank Account,4,4,2,3,2,1,3,5,"Rs 1,00,000-10,00,000",1,4,5,4,4,5,4,No,Recharge and Pay Bills,Yes,4,3,3,2,Selfie
+360,Arjun Nair T,Male,24,Private Co.,1,2,3,2,5,Difficulty in Linking to the Bank Account,5,4,1,5,2,4,5,1,"Rs 10,000-1,00,000",4,4,5,3,5,5,5,No,Chat Services,Yes,5,5,5,3,Selfie
+361,Nisha P F,Female,39,Professional,2,3,2,1,2,Other mobile apps are so easy,3,5,3,5,1,3,3,3,Rs 0-100,4,5,4,5,4,4,1,Yes,Recharge and Pay Bills,No,2,3,5,3,FedNet
+362,Malavika Kurian J,Female,44,Government Servant,1,3,5,3,3,Difficulty in Linking to the Bank Account,1,5,4,1,1,2,2,5,Rs 100-1000,4,1,2,2,2,5,1,Yes,Transfer Funds,No,5,2,4,4,FedMobile App
+363,Arjun Nair R,Male,27,Other,3,4,2,2,3,Other mobile apps are so easy,4,4,2,3,5,4,3,3,Rs 100-1000,3,5,5,4,2,2,3,No,Pay Bills,No,3,2,3,3,FedNet
+364,Nisha P G,Female,41,Government Servant,4,5,4,5,2,Difficulty in Linking to the Bank Account,4,4,4,2,3,1,3,5,"Rs 1,00,000-10,00,000",4,4,1,1,5,2,1,No,Transfer Funds,Yes,2,4,3,2,FedNet
+365,Basha P B,Male,26,Other,2,4,3,2,3,Difficulty in Opening the App,2,5,2,4,4,1,5,1,Rs 100-1000,1,4,1,1,1,4,3,No,Loans and Investments,No,5,3,1,3,FedNet
+366,Nisha P H,Female,35,Self Employed,3,3,1,1,1,Nil,5,4,2,3,1,4,2,3,"Rs 1,00,000-10,00,000",2,3,2,3,4,1,3,No,Loans and Investments,No,4,4,5,1,FedMobile App
+367,Gayathri Joseph B,Female,25,Private Co.,3,1,4,3,3,Crashing of the App,2,4,1,4,1,5,1,3,"Rs 1,00,000-10,00,000",1,5,2,4,4,2,1,Yes,Recharge and Pay Bills,No,1,3,3,4,FedBook
+368,Pradeep Menon S,Male,49,Private Co.,4,3,5,2,1,Difficulty in Linking to the Bank Account,2,5,5,2,3,3,2,5,"Rs 1000-10,000",1,2,2,5,4,2,2,Yes,Loans and Investments,Yes,2,3,1,4,Selfie
+369,Daniel Kurian D,Male,40,Private Co.,4,1,5,3,1,Difficulty in Linking to the Bank Account,3,4,4,1,1,3,5,5,"Rs 1,00,000-10,00,000",5,4,1,1,5,2,2,Yes,Loans and Investments,Yes,2,2,3,1,Selfie
+370,Rahman P J,Male,43,Self Employed,3,1,4,2,2,Crashing of the App,1,2,5,3,2,4,3,1,"Rs 10,000-1,00,000",4,2,1,2,1,3,2,Yes,Loans and Investments,No,1,5,5,1,FedNet
+371,Ameer K V,Male,44,Private Co.,3,3,1,4,3,Other mobile apps are so easy,1,2,1,5,4,2,2,2,Rs 0-100,1,5,4,4,4,3,3,No,Recharge and Pay Bills,Yes,5,4,3,5,FedBook
+372,Rahman P D,Male,40,Self Employed,1,4,5,5,3,Difficulty in Linking to the Bank Account,5,2,2,2,4,1,1,4,Rs 0-100,3,3,3,5,1,4,5,No,Chat Services,No,4,1,5,4,Selfie
+373,Nishanth Menon D,Male,34,Self Employed,1,5,5,3,4,Difficulty in Opening the App,5,2,1,3,1,3,1,2,"Rs 1,00,000-10,00,000",3,4,3,5,3,3,4,No,Recharge and Pay Bills,Yes,5,1,3,2,FedBook
+374,Mary Mathew I,Female,23,Student,2,1,4,3,4,Other mobile apps are so easy,1,1,5,3,5,4,5,5,Rs 100-1000,1,4,5,4,2,2,1,Yes,Deposits,No,5,3,1,4,Selfie
+375,Ajith Kumar A,Male,39,Other,4,4,3,1,3,Nil,3,5,3,5,2,3,5,3,"Rs 1000-10,000",5,5,5,4,4,4,4,No,Loan Against Deposit,No,1,4,4,2,FedMobile App
+376,Unnikrishnan C,Male,47,Government Servant,3,3,1,5,5,Difficulty in Linking to the Bank Account,4,2,4,5,2,4,4,3,"Rs 1,00,000-10,00,000",4,3,5,2,2,1,2,Yes,Loans and Investments,Yes,2,2,1,4,FedNet
+377,Radhika B D,Female,26,Self Employed,1,5,5,5,1,Crashing of the App,4,1,2,1,1,4,5,2,"Rs 1,00,000-10,00,000",3,2,3,3,4,3,2,No,Transfer Funds,Yes,2,2,1,5,FedNet
+378,Fathima B J,Female,43,Other,1,4,5,4,3,Crashing of the App,5,5,4,3,3,5,5,5,"Rs 1,00,000-10,00,000",2,5,5,1,4,2,1,No,Chat Services,No,5,4,4,4,FedNet
+379,Ameer K J,Male,25,Self Employed,2,2,5,2,4,Nil,5,4,5,5,5,4,4,3,Rs 0-100,3,1,3,5,2,5,4,Yes,Chat Services,No,2,1,4,5,FedMobile App
+380,Sandeep M E,Male,36,Professional,4,1,2,5,3,Nil,5,4,4,2,2,2,2,5,Rs 100-1000,5,1,2,3,2,5,2,Yes,Deposits,Yes,4,2,5,1,FedMobile App
+381,Anand Rajan D,Male,28,Other,4,5,4,5,1,Crashing of the App,2,1,5,4,1,3,5,3,"Rs 10,000-1,00,000",3,2,4,5,1,2,5,Yes,Pay Bills,Yes,2,4,2,2,FedMobile App
+382,Sneha R E,Female,26,Self Employed,1,3,2,1,3,Nil,4,5,1,5,5,1,2,5,"Rs 1,00,000-10,00,000",2,2,2,2,5,2,1,No,Recharge and Pay Bills,Yes,4,5,1,4,FedNet
+383,Fathima B D,Female,41,Private Co.,2,2,1,5,2,Other mobile apps are so easy,1,5,1,1,3,3,1,4,"Rs 10,000-1,00,000",3,5,3,2,2,3,2,Yes,Pay Bills,Yes,4,2,4,4,Selfie
+384,Basha P C,Male,26,Private Co.,2,4,1,2,1,Other mobile apps are so easy,4,2,4,2,2,4,1,5,Rs 0-100,2,2,4,5,5,2,5,No,Recharge and Pay Bills,No,1,3,3,5,FedBook
+385,Devika Menon J,Female,30,Self Employed,1,3,3,3,5,Difficulty in Opening the App,4,1,3,1,3,5,4,3,"Rs 1,00,000-10,00,000",4,2,4,2,1,4,5,No,Recharge and Pay Bills,Yes,1,1,4,1,Selfie
+386,Sandeep M F,Male,32,Government Servant,1,1,2,1,1,Difficulty in Opening the App,2,1,5,5,5,5,4,1,"Rs 10,000-1,00,000",5,2,3,5,4,4,5,No,Pay Bills,Yes,3,1,3,3,Selfie
+387,Rosamma Kurian K,Female,45,Other,3,4,2,5,3,Difficulty in Linking to the Bank Account,5,1,4,5,1,5,1,3,"Rs 1,00,000-10,00,000",1,4,1,2,3,3,3,Yes,Loan Against Deposit,No,3,4,1,1,Selfie
+388,Amritha S V,Female,38,Government Servant,1,3,1,1,2,Difficulty in Linking to the Bank Account,4,2,3,3,4,2,3,1,"Rs 1,00,000-10,00,000",3,4,2,1,5,2,5,No,Loan Against Deposit,Yes,4,2,1,5,Selfie
+389,Ameer K D,Male,38,Government Servant,1,3,5,1,3,Crashing of the App,5,1,4,2,5,4,2,1,"Rs 1,00,000-10,00,000",1,4,1,5,2,2,3,No,Transfer Funds,Yes,3,2,2,5,FedNet
+390,Aparna U C,Female,32,Private Co.,2,4,1,2,5,Other mobile apps are so easy,3,1,5,1,5,5,1,4,Rs 100-1000,2,1,1,3,5,4,3,No,Pay Bills,Yes,5,2,2,3,FedNet
+391,Arjun Nair V,Male,36,Private Co.,3,3,5,3,2,Nil,2,4,1,3,2,4,3,5,"Rs 1,00,000-10,00,000",3,2,5,4,1,1,2,Yes,Chat Services,Yes,2,1,5,1,FedBook
+392,Elizabeth Joseph P,Female,48,Private Co.,1,4,2,5,2,Difficulty in Linking to the Bank Account,2,2,4,2,2,2,4,2,"Rs 10,000-1,00,000",4,2,5,2,5,4,5,No,Pay Bills,No,4,2,4,5,FedBook
+393,Manu Kumar V,Male,43,Professional,3,2,3,1,3,Crashing of the App,3,2,4,4,2,2,4,3,"Rs 10,000-1,00,000",3,1,5,2,5,5,4,Yes,Loan Against Deposit,No,3,4,3,3,FedBook
+394,Gopakumar K P,Male,45,Professional,3,2,5,2,5,Crashing of the App,2,1,2,1,3,3,1,2,Rs 100-1000,2,4,3,5,2,3,4,Yes,Transfer Funds,No,3,2,2,1,FedMobile App
+395,Amritha S J,Female,26,Professional,2,5,5,5,1,Nil,2,4,1,4,4,3,1,2,"Rs 1000-10,000",1,2,3,2,4,3,2,No,Transfer Funds,Yes,4,2,2,5,FedNet
+396,Devika Menon D,Female,27,Self Employed,1,3,2,3,3,Other mobile apps are so easy,5,4,4,5,2,4,2,3,"Rs 10,000-1,00,000",4,3,5,1,5,1,3,Yes,Loan Against Deposit,Yes,4,4,3,2,FedNet
+397,Joel M T,Male,40,Private Co.,4,3,2,3,3,Other mobile apps are so easy,2,5,1,4,4,1,4,3,"Rs 10,000-1,00,000",4,5,1,1,1,2,4,Yes,Chat Services,Yes,2,1,4,5,FedNet
+398,Nisha P I,Female,44,Private Co.,3,5,5,2,3,Crashing of the App,5,2,2,4,2,5,1,2,"Rs 1,00,000-10,00,000",5,1,1,4,3,3,2,Yes,Pay Bills,Yes,4,5,1,1,Selfie
+399,Sreedevi Nair K,Female,46,Government Servant,1,4,3,1,2,Crashing of the App,1,1,4,5,1,4,1,2,Rs 100-1000,4,5,2,2,5,2,1,Yes,Recharge and Pay Bills,No,4,4,5,5,FedNet
+400,Fathima B A,Female,29,Other,3,3,3,1,5,Other mobile apps are so easy,3,3,5,5,2,3,1,3,"Rs 10,000-1,00,000",4,5,1,5,5,5,4,Yes,Recharge and Pay Bills,Yes,1,1,3,2,FedMobile App
+401,Fathima Beevi,Female,48,Other,3,1,5,3,2,Difficulty in Opening the App,2,3,2,5,4,3,5,1,"Rs 1,00,000-10,00,000",1,1,1,1,4,1,1,Yes,Recharge and Pay Bills,No,5,5,5,2,FedBook
+402,Ajith Kumar B,Male,44,Government Servant,1,4,5,2,2,Other mobile apps are so easy,1,1,4,2,3,4,3,4,"Rs 10,000-1,00,000",3,3,4,4,4,5,5,Yes,Loans and Investments,Yes,3,4,5,1,FedBook
+403,Reshma T A,Female,29,Self Employed,3,1,5,1,3,Nil,3,3,3,5,4,4,4,5,Rs 100-1000,4,5,3,1,1,4,4,Yes,Loan Against Deposit,Yes,1,2,3,4,FedBook
+404,Malavika Kurian D,Female,22,Student,2,5,2,2,2,Nil,2,5,4,2,4,3,5,3,"Rs 10,000-1,00,000",3,3,3,5,1,5,4,Yes,Loans and Investments,No,4,4,4,4,FedMobile App
+405,Arjun Nair J,Male,30,Professional,3,4,1,3,4,Difficulty in Opening the App,4,2,1,2,5,5,3,5,"Rs 1000-10,000",1,5,5,4,3,4,1,No,Pay Bills,Yes,4,4,2,5,FedBook
+406,Arjun Nair D,Male,37,Private Co.,1,1,2,1,2,Nil,5,5,1,3,3,4,3,1,"Rs 1000-10,000",2,3,1,2,2,2,5,No,Loan Against Deposit,Yes,5,2,2,4,Selfie
+407,Sandeep M G,Male,32,Other,1,4,4,3,3,Difficulty in Opening the App,2,1,3,2,1,2,1,3,"Rs 1,00,000-10,00,000",5,3,3,2,4,5,3,Yes,Transfer Funds,Yes,5,4,2,4,FedMobile App
+408,Devika Menon A,Female,26,Self Employed,4,3,3,4,1,Nil,4,4,4,4,5,4,3,5,"Rs 1000-10,000",5,3,4,5,5,2,5,No,Transfer Funds,Yes,4,1,5,3,FedNet
+409,Devika Menon B,Female,42,Professional,2,5,2,4,5,Other mobile apps are so easy,3,2,2,3,1,3,2,1,Rs 0-100,1,4,1,3,3,4,5,No,Transfer Funds,No,2,2,4,3,Selfie
+410,Imran B V,Male,33,Government Servant,4,2,1,4,3,Nil,5,4,2,5,4,5,2,5,"Rs 1000-10,000",5,5,4,5,1,5,3,No,Chat Services,No,2,3,4,5,FedMobile App
+411,Muhammed Ali K K,Male,47,Other,2,3,3,2,3,Difficulty in Linking to the Bank Account,2,3,1,5,1,2,5,2,Rs 0-100,2,3,4,5,5,1,1,Yes,Pay Bills,No,5,3,2,3,Selfie
+412,Mary Mathew L,Female,32,Other,4,1,1,4,2,Difficulty in Opening the App,3,5,3,3,2,2,1,3,"Rs 1000-10,000",5,1,5,1,4,4,3,Yes,Chat Services,No,1,5,4,3,FedBook
+413,Ismail B,Male,47,Private Co.,3,5,1,1,2,Nil,4,3,3,5,4,5,4,3,Rs 100-1000,2,5,5,2,1,3,1,No,Deposits,Yes,4,5,3,5,FedMobile App
+414,Aysha K,Female,49,Government Servant,2,4,2,2,1,Difficulty in Linking to the Bank Account,1,2,1,3,2,2,3,4,"Rs 10,000-1,00,000",4,2,5,1,3,3,3,Yes,Loan Against Deposit,No,3,4,3,5,FedBook
+415,Meera Thomas I,Female,23,Professional,4,4,1,3,5,Crashing of the App,2,5,4,1,2,1,4,3,"Rs 10,000-1,00,000",5,5,5,1,2,1,1,No,Loans and Investments,No,3,5,3,2,FedBook
+416,Gayathri Joseph C,Female,44,Professional,4,5,3,5,2,Crashing of the App,3,3,2,1,2,2,3,5,"Rs 1000-10,000",5,5,1,1,3,4,3,No,Recharge and Pay Bills,No,1,4,3,2,FedNet
+417,Radhamani K K,Female,48,Other,4,5,5,4,2,Difficulty in Linking to the Bank Account,5,2,1,1,1,2,3,3,Rs 0-100,4,2,4,1,1,2,2,No,Loan Against Deposit,No,3,4,5,3,FedBook
+418,Vivek R V,Male,37,Professional,4,4,1,4,2,Crashing of the App,4,3,4,3,5,1,2,2,"Rs 1,00,000-10,00,000",4,4,5,5,2,3,2,No,Loan Against Deposit,Yes,4,5,3,2,FedMobile App
+419,Abdul Rahman P,Male,46,Government Servant,4,2,1,4,2,Difficulty in Opening the App,5,2,1,1,2,3,4,3,Rs 100-1000,5,4,3,5,3,1,2,Yes,Transfer Funds,No,2,5,2,5,Selfie
+420,Rohit Varghese V,Male,26,Other,3,3,1,5,4,Crashing of the App,4,3,1,2,2,1,5,5,"Rs 1000-10,000",2,5,1,2,5,4,2,No,Pay Bills,Yes,3,1,3,5,Selfie
+421,Parvathy K A,Female,35,Government Servant,1,3,5,1,4,Other mobile apps are so easy,3,1,4,2,1,5,5,3,"Rs 1000-10,000",2,3,1,5,3,3,2,No,Deposits,No,5,2,4,2,FedMobile App
+422,Samuel Mathew R,Male,44,Government Servant,3,1,3,3,1,Difficulty in Opening the App,3,5,5,2,3,4,4,1,Rs 100-1000,3,2,5,1,4,5,3,No,Loans and Investments,Yes,3,2,5,5,FedBook
+423,Sneha R F,Female,26,Other,1,1,3,1,1,Difficulty in Linking to the Bank Account,2,2,3,3,4,1,4,2,"Rs 10,000-1,00,000",4,3,3,3,1,5,1,Yes,Chat Services,No,1,1,2,2,FedMobile App
+424,Elsamma Varghese K,Female,46,Private Co.,2,5,3,5,1,Crashing of the App,5,5,5,5,2,4,3,1,Rs 100-1000,4,5,5,4,5,4,4,No,Chat Services,Yes,1,4,4,4,FedBook
+425,Samuel Mathew V,Male,22,Student,2,3,2,2,1,Difficulty in Linking to the Bank Account,1,5,1,5,4,2,5,1,"Rs 10,000-1,00,000",5,4,3,5,3,5,5,Yes,Deposits,No,4,4,2,5,FedNet
+426,Mathew Joseph R,Male,45,Professional,1,2,2,4,3,Difficulty in Linking to the Bank Account,2,2,4,4,5,5,4,2,"Rs 1000-10,000",3,2,3,5,3,3,2,No,Loans and Investments,Yes,3,4,2,1,FedNet
+427,Ibrahim K,Male,47,Private Co.,3,4,4,4,3,Other mobile apps are so easy,2,3,4,5,1,2,1,2,"Rs 10,000-1,00,000",4,5,1,1,2,4,2,Yes,Chat Services,Yes,2,2,5,1,FedBook
+428,Rahman P A,Male,39,Government Servant,4,5,3,2,3,Crashing of the App,3,4,2,4,5,5,5,3,"Rs 1000-10,000",1,1,1,5,1,3,1,Yes,Recharge and Pay Bills,Yes,5,4,5,2,FedBook
+429,Arjun Nair A,Male,26,Self Employed,2,5,1,4,3,Crashing of the App,5,5,3,3,5,2,2,1,"Rs 10,000-1,00,000",5,1,5,2,3,5,1,No,Recharge and Pay Bills,Yes,3,4,3,2,FedBook
+430,Radhamani K P,Female,47,Government Servant,4,3,3,2,2,Nil,5,3,5,5,5,1,2,1,"Rs 10,000-1,00,000",3,2,2,3,3,5,2,Yes,Recharge and Pay Bills,No,4,1,4,3,FedNet
+431,Rahman P B,Male,33,Government Servant,3,4,1,2,1,Other mobile apps are so easy,1,3,4,1,2,1,2,5,"Rs 1000-10,000",2,2,4,5,3,2,5,No,Transfer Funds,No,2,1,4,5,Selfie
+432,Parvathy K B,Female,25,Self Employed,1,1,3,5,2,Difficulty in Linking to the Bank Account,1,2,3,1,4,4,1,5,Rs 100-1000,4,1,2,1,3,2,2,Yes,Chat Services,Yes,4,5,4,4,FedMobile App
+433,Amritha S D,Female,27,Government Servant,2,1,1,3,5,Difficulty in Opening the App,5,3,1,4,1,5,2,5,"Rs 1,00,000-10,00,000",5,4,5,3,4,1,5,Yes,Loan Against Deposit,Yes,1,5,2,1,FedNet
+434,Aysha Beevi K,Female,47,Private Co.,3,3,2,5,2,Other mobile apps are so easy,4,5,3,1,4,1,3,3,"Rs 1,00,000-10,00,000",2,2,4,5,4,2,4,Yes,Transfer Funds,No,5,4,4,1,FedNet
+435,Pradeep Menon T,Male,47,Other,4,2,1,5,4,Difficulty in Opening the App,2,1,5,2,5,3,1,1,"Rs 1000-10,000",3,4,4,2,5,4,3,Yes,Transfer Funds,No,4,4,2,5,Selfie
+436,Aparna U E,Female,28,Other,2,3,3,4,2,Other mobile apps are so easy,5,4,2,1,5,2,5,4,"Rs 1000-10,000",2,1,2,1,5,1,4,Yes,Loans and Investments,No,2,1,4,5,FedBook
+437,Ameer K A,Male,36,Private Co.,3,2,1,2,5,Crashing of the App,5,5,5,1,2,2,3,3,"Rs 1,00,000-10,00,000",3,3,4,5,3,2,1,No,Transfer Funds,Yes,1,1,4,1,FedBook
+438,Imran B J,Male,37,Professional,2,1,3,3,1,Nil,1,4,5,2,5,1,4,3,Rs 0-100,5,5,2,2,3,4,1,Yes,Pay Bills,Yes,5,2,1,4,FedNet
+439,Reshma T B,Female,31,Self Employed,1,5,4,1,2,Difficulty in Opening the App,4,4,1,2,3,3,3,4,Rs 100-1000,2,5,2,1,4,3,2,No,Pay Bills,Yes,2,1,3,1,FedBook
+440,Rahman P C,Male,33,Professional,1,3,5,3,3,Crashing of the App,3,1,4,1,5,3,2,4,Rs 100-1000,1,4,2,5,2,3,3,Yes,Loans and Investments,Yes,1,1,2,1,FedNet
+441,Shamsudheen T K,Male,45,Government Servant,3,5,5,5,3,Crashing of the App,3,5,4,3,5,3,1,5,"Rs 1,00,000-10,00,000",2,5,1,1,1,5,3,Yes,Transfer Funds,No,4,5,3,1,Selfie
+442,Radhika B A,Female,30,Professional,3,3,3,4,2,Other mobile apps are so easy,4,3,2,2,2,4,5,4,Rs 0-100,5,4,1,1,4,1,1,No,Pay Bills,Yes,2,5,1,3,Selfie
+443,Basha P E,Male,40,Government Servant,1,2,5,4,5,Crashing of the App,5,3,1,3,1,4,4,1,"Rs 10,000-1,00,000",5,1,1,5,1,5,2,Yes,Loan Against Deposit,Yes,5,5,1,4,Selfie
+444,Radhika B B,Female,25,Private Co.,2,1,5,4,2,Difficulty in Linking to the Bank Account,3,3,3,4,3,2,4,1,"Rs 10,000-1,00,000",5,1,4,3,4,1,2,No,Deposits,No,4,4,2,3,Selfie
+445,Joel M R,Male,35,Other,3,2,1,3,5,Other mobile apps are so easy,1,1,4,5,1,2,2,3,"Rs 1000-10,000",3,3,3,4,2,5,3,Yes,Loan Against Deposit,Yes,5,1,2,5,FedMobile App
+446,Sneha R G,Female,26,Private Co.,1,4,5,1,2,Other mobile apps are so easy,1,2,1,1,2,4,3,5,"Rs 1,00,000-10,00,000",2,1,5,1,1,4,5,No,Loan Against Deposit,No,5,4,3,3,FedMobile App
+447,Aishwarya Rajan B,Female,22,Student,2,1,3,2,4,Difficulty in Linking to the Bank Account,3,5,1,5,1,3,5,4,Rs 100-1000,4,2,5,2,3,1,2,Yes,Deposits,Yes,2,1,2,2,FedBook
+448,Nishanth Menon A,Male,24,Private Co.,2,3,3,4,3,Difficulty in Linking to the Bank Account,1,3,1,5,3,5,4,5,"Rs 1,00,000-10,00,000",5,4,1,5,3,5,5,Yes,Transfer Funds,Yes,1,5,4,1,FedNet
+449,Alice Mathew M,Female,46,Other,2,5,5,2,1,Difficulty in Opening the App,1,3,3,3,5,4,5,2,"Rs 1000-10,000",1,1,3,5,5,2,5,No,Loans and Investments,Yes,4,4,4,5,FedNet
+450,Joel M V,Male,43,Professional,4,5,3,3,5,Crashing of the App,3,2,2,2,4,3,3,5,Rs 100-1000,3,3,4,4,4,4,4,Yes,Loan Against Deposit,Yes,4,5,4,1,FedMobile App
+451,Rajendran M P,Male,49,Government Servant,1,4,5,5,3,Other mobile apps are so easy,3,1,4,2,5,3,2,3,Rs 0-100,5,2,1,2,2,1,1,Yes,Transfer Funds,No,4,3,2,3,FedNet
+452,Mary Mathew N,Female,32,Self Employed,1,3,2,3,4,Nil,2,1,2,3,4,5,5,5,"Rs 1000-10,000",1,5,4,1,5,3,4,No,Transfer Funds,No,4,3,1,2,FedBook
+453,Manu Kumar J,Male,26,Professional,2,5,5,2,3,Crashing of the App,2,4,5,2,3,2,3,4,"Rs 1000-10,000",4,5,4,3,5,5,3,No,Deposits,No,5,5,3,1,FedNet
+454,Saraswathi Nair K,Female,46,Government Servant,4,3,5,1,2,Other mobile apps are so easy,1,2,2,3,2,5,3,1,"Rs 10,000-1,00,000",2,1,4,1,5,2,3,No,Deposits,No,5,3,2,2,Selfie
+455,Aishwarya Rajan C,Female,29,Professional,3,1,2,3,1,Nil,4,5,5,4,4,1,3,1,"Rs 1,00,000-10,00,000",1,2,2,3,4,5,3,Yes,Loan Against Deposit,No,2,3,2,1,Selfie
+456,Parvathy K C,Female,22,Student,1,3,3,1,5,Difficulty in Opening the App,2,4,3,4,2,1,3,5,"Rs 10,000-1,00,000",4,2,2,5,5,4,4,Yes,Deposits,Yes,2,4,5,3,FedBook
+457,Amritha S A,Female,39,Private Co.,2,3,4,5,2,Nil,4,1,2,2,3,5,5,5,Rs 100-1000,3,2,2,5,1,3,2,No,Loans and Investments,Yes,2,4,1,5,Selfie
+458,Biju Krishnan,Male,45,Private Co.,1,1,3,3,3,Nil,2,5,1,2,1,1,1,1,"Rs 10,000-1,00,000",3,1,3,3,1,5,3,No,Pay Bills,Yes,1,2,5,2,FedMobile App
+459,Aparna U F,Female,27,Self Employed,4,1,4,1,2,Difficulty in Linking to the Bank Account,3,4,2,5,4,5,2,4,"Rs 1000-10,000",2,1,3,3,4,4,1,Yes,Chat Services,Yes,4,3,1,3,FedBook
+460,Joel M J,Male,27,Professional,2,3,5,1,5,Difficulty in Linking to the Bank Account,1,2,1,2,2,3,2,3,"Rs 10,000-1,00,000",2,1,4,1,3,2,1,No,Transfer Funds,Yes,2,3,4,5,Selfie
+461,Muhammed Ali K P,Male,48,Government Servant,1,4,2,1,5,Nil,5,3,3,4,1,5,1,1,Rs 100-1000,1,5,5,1,2,5,4,No,Loans and Investments,No,2,3,4,3,FedBook
+462,Ajith Kumar C,Male,35,Professional,4,1,2,2,4,Difficulty in Linking to the Bank Account,3,1,3,2,5,4,4,5,"Rs 10,000-1,00,000",3,5,1,5,1,2,3,No,Recharge and Pay Bills,Yes,4,3,3,5,FedMobile App
+463,Alice Mathew S,Female,46,Professional,1,5,1,2,3,Crashing of the App,5,2,4,1,3,2,4,4,Rs 0-100,1,3,5,1,3,2,1,Yes,Deposits,No,3,4,1,3,FedBook
+464,Fathima B B,Female,43,Government Servant,4,4,3,4,4,Difficulty in Opening the App,5,2,5,4,4,5,2,4,"Rs 10,000-1,00,000",2,1,2,5,3,5,2,Yes,Loans and Investments,Yes,2,3,1,5,FedBook
+465,Sunny Thomas K,Male,47,Other,2,4,3,2,3,Crashing of the App,2,5,4,3,3,5,3,3,"Rs 10,000-1,00,000",1,3,4,1,3,3,3,Yes,Deposits,Yes,4,1,4,1,FedNet
+466,Reshma T C,Female,44,Other,1,1,2,2,3,Other mobile apps are so easy,2,2,3,1,2,2,3,5,Rs 0-100,1,1,5,1,5,4,4,Yes,Recharge and Pay Bills,No,1,4,2,5,Selfie
+467,Mary Mathew O,Female,25,Self Employed,1,1,1,5,5,Difficulty in Linking to the Bank Account,3,3,3,1,3,3,3,4,Rs 100-1000,1,1,1,5,4,3,5,Yes,Loans and Investments,No,2,3,4,4,FedNet
+468,Sunanda P K,Female,45,Professional,2,3,2,1,2,Difficulty in Linking to the Bank Account,4,2,4,5,1,5,4,4,"Rs 10,000-1,00,000",5,2,5,1,3,3,2,Yes,Transfer Funds,Yes,3,5,3,3,FedNet
+469,Mary Mathew Q,Female,42,Professional,3,1,4,3,2,Difficulty in Linking to the Bank Account,5,3,2,4,2,5,1,3,"Rs 1,00,000-10,00,000",3,2,5,5,5,1,5,No,Loans and Investments,Yes,4,5,4,3,FedBook
+470,Fathima B C,Female,23,Student,2,5,3,5,1,Difficulty in Linking to the Bank Account,2,1,5,3,2,2,1,3,Rs 100-1000,2,2,4,5,1,1,5,Yes,Chat Services,Yes,1,1,5,2,Selfie
+471,Fathima B E,Female,27,Private Co.,1,1,2,1,3,Other mobile apps are so easy,4,1,4,3,1,3,2,4,Rs 0-100,5,2,1,4,1,4,5,Yes,Loan Against Deposit,No,5,2,2,1,FedNet
+472,Malavica Kurian,Female,34,Self Employed,2,3,2,2,5,Difficulty in Linking to the Bank Account,1,5,3,5,1,2,4,2,"Rs 10,000-1,00,000",2,5,2,2,3,1,4,Yes,Deposits,No,3,3,1,4,FedNet
+473,Imran B D,Male,26,Private Co.,2,5,4,1,3,Other mobile apps are so easy,4,1,4,5,1,2,5,4,"Rs 10,000-1,00,000",5,2,4,3,2,4,4,No,Loans and Investments,Yes,4,4,3,3,FedNet
+474,Shobha K,Female,48,Other,2,3,1,5,4,Difficulty in Linking to the Bank Account,2,3,4,5,2,5,3,1,"Rs 10,000-1,00,000",5,2,1,5,1,4,1,No,Chat Services,No,3,4,3,2,FedMobile App
+475,Muhammed Ali K M,Male,47,Government Servant,3,2,5,5,1,Other mobile apps are so easy,4,2,3,2,2,4,4,3,Rs 0-100,4,5,1,3,5,5,2,Yes,Recharge and Pay Bills,No,1,5,4,2,Selfie
+476,Daniel Kurian A,Male,41,Private Co.,1,4,5,1,3,Nil,5,1,1,3,4,2,1,1,"Rs 1,00,000-10,00,000",1,4,4,2,5,3,4,No,Deposits,Yes,2,3,2,3,FedMobile App
+477,Arjun Nair B,Male,34,Self Employed,2,5,3,5,2,Crashing of the App,1,4,1,1,2,5,1,3,Rs 100-1000,5,1,2,1,1,4,2,No,Pay Bills,Yes,5,3,1,5,FedBook
+478,Joel M D,Male,25,Private Co.,1,2,1,5,1,Other mobile apps are so easy,4,2,4,5,1,3,5,3,"Rs 1,00,000-10,00,000",4,5,4,3,2,3,5,No,Loans and Investments,Yes,5,4,1,5,FedNet
+479,Rohit Varghese J,Male,33,Self Employed,2,1,2,4,3,Difficulty in Linking to the Bank Account,2,4,5,3,4,3,5,5,"Rs 10,000-1,00,000",2,2,2,2,2,2,3,Yes,Transfer Funds,No,2,1,2,4,FedBook
+480,Gopakumar K M,Male,47,Professional,4,2,4,2,2,Difficulty in Linking to the Bank Account,4,4,2,4,5,3,4,4,"Rs 10,000-1,00,000",4,3,5,5,1,5,5,No,Chat Services,No,3,3,5,1,FedMobile App
+481,Mary Mathew U,Female,40,Professional,3,2,2,5,5,Crashing of the App,5,5,1,3,5,2,5,5,Rs 100-1000,1,1,2,2,2,2,3,No,Chat Services,Yes,1,5,1,3,FedBook
+482,Nishanth Menon B,Male,27,Self Employed,4,2,2,2,3,Crashing of the App,5,2,4,5,3,4,1,5,"Rs 1000-10,000",3,3,2,4,1,1,5,Yes,Loan Against Deposit,Yes,4,2,3,1,FedBook
+483,Hameed K K,Male,49,Self Employed,2,4,2,3,5,Other mobile apps are so easy,2,5,3,5,1,5,4,4,"Rs 10,000-1,00,000",1,3,3,3,1,5,4,Yes,Loan Against Deposit,No,5,5,1,5,FedBook
+484,Leela Rajan,Female,47,Government Servant,2,3,3,2,5,Nil,5,2,4,4,5,4,2,2,Rs 0-100,3,1,1,1,2,2,4,No,Pay Bills,No,3,1,1,2,FedNet
+485,Mary Mathew W,Female,29,Government Servant,4,2,1,2,3,Other mobile apps are so easy,3,2,2,4,5,4,1,4,"Rs 10,000-1,00,000",5,2,1,5,1,3,3,No,Loans and Investments,Yes,5,4,1,2,FedNet
+486,Joseph Kurian,Male,46,Self Employed,1,2,3,4,4,Other mobile apps are so easy,4,4,5,5,5,3,3,3,"Rs 10,000-1,00,000",2,5,4,5,2,2,2,Yes,Deposits,No,1,2,3,4,Selfie
+487,Basha P F,Male,33,Other,2,5,4,5,2,Difficulty in Linking to the Bank Account,4,5,5,5,2,1,1,4,"Rs 10,000-1,00,000",1,4,5,1,2,3,4,Yes,Pay Bills,No,4,4,1,5,FedNet
+488,Aparna U G,Female,33,Self Employed,1,5,1,1,5,Other mobile apps are so easy,2,3,5,3,4,5,5,3,Rs 100-1000,3,3,2,5,2,4,2,Yes,Deposits,Yes,3,5,1,5,FedBook
+489,Nishanth Menon C,Male,44,Other,4,2,5,1,1,Other mobile apps are so easy,3,1,1,3,3,3,3,3,"Rs 1,00,000-10,00,000",2,2,5,2,2,3,3,No,Loan Against Deposit,Yes,5,1,4,3,Selfie
+490,Ameer K B,Male,24,Professional,4,4,3,1,3,Difficulty in Opening the App,2,2,3,5,4,1,2,5,Rs 100-1000,3,2,3,5,3,5,5,Yes,Loan Against Deposit,Yes,5,4,2,3,FedMobile App
+491,Devika Menon C,Female,43,Self Employed,4,5,5,1,3,Crashing of the App,3,2,3,5,4,2,3,3,Rs 100-1000,4,2,5,1,5,2,1,No,Deposits,No,4,5,1,4,FedBook
+492,Sneha R H,Female,43,Self Employed,4,1,2,2,4,Difficulty in Linking to the Bank Account,3,1,5,3,1,5,5,1,Rs 0-100,3,2,4,5,4,3,2,No,Recharge and Pay Bills,Yes,5,1,4,2,FedBook
+493,Rahman P E,Male,42,Professional,4,4,3,4,3,Other mobile apps are so easy,4,4,1,3,2,4,5,3,Rs 0-100,4,5,3,5,3,5,5,No,Pay Bills,No,1,1,5,4,FedBook
+494,Reshma T E,Female,22,Student,1,2,2,3,4,Other mobile apps are so easy,3,5,3,3,2,5,2,5,"Rs 1,00,000-10,00,000",1,4,1,1,1,5,2,No,Loan Against Deposit,No,1,5,1,3,FedBook
+495,Sandeep M H,Male,41,Self Employed,3,1,2,3,4,Nil,2,3,3,1,4,4,3,4,Rs 100-1000,1,1,4,4,4,4,2,Yes,Chat Services,Yes,5,5,1,4,FedBook
+496,Radhika B C,Female,35,Professional,3,5,1,2,2,Other mobile apps are so easy,4,3,2,2,1,3,1,1,"Rs 10,000-1,00,000",1,3,3,1,1,3,5,Yes,Pay Bills,No,5,1,2,2,FedNet
+497,Basha P G,Male,32,Private Co.,3,3,3,4,2,Other mobile apps are so easy,2,4,3,1,5,3,2,3,"Rs 1,00,000-10,00,000",1,4,2,5,3,4,1,No,Recharge and Pay Bills,No,1,3,2,1,FedBook
+498,Meera Thomas L,Female,40,Other,2,2,1,3,2,Nil,4,4,5,2,3,2,1,2,"Rs 1000-10,000",2,5,4,3,1,1,2,No,Recharge and Pay Bills,Yes,1,1,4,4,FedMobile App
+499,Ajith Kumar E,Male,41,Professional,1,4,3,5,5,Difficulty in Linking to the Bank Account,5,5,4,3,4,1,1,5,Rs 100-1000,1,2,2,4,3,4,5,No,Chat Services,Yes,4,3,4,2,FedBook
+500,Meera Thomas N,Female,40,Other,2,3,3,3,1,Other mobile apps are so easy,2,4,3,5,5,2,1,4,"Rs 10,000-1,00,000",3,1,4,5,2,3,1,Yes,Pay Bills,No,2,2,2,5,FedBook
+501,Ajith Kumar F,Male,37,Professional,3,1,4,3,1,Difficulty in Linking to the Bank Account,5,1,1,2,5,1,3,4,"Rs 10,000-1,00,000",3,1,5,4,3,2,2,No,Recharge and Pay Bills,No,3,5,4,4,FedMobile App
