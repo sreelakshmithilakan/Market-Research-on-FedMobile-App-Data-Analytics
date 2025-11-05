@@ -1,0 +1,2 @@
+# Market-Research-on-FedMobile-App-Data-Analytics-Power-BI-Dashboard-Project
+This project presents a market research study focused on understanding user experience, adoption, and improvement needs for the FedMobile App of Federal Bank Ltd. The analysis highlights customer behavior, app usability, transaction patterns, and key areas requiring enhancement to improve overall digital banking experience.
